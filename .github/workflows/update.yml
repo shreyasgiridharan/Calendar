@@ -1,0 +1,35 @@
+name: Update Calendar
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs every Sunday at Midnight UTC
+  workflow_dispatch:      # Allows manual run button
+  push:
+    paths:
+      - 'manual_events.json' # Runs automatically when you edit manual events
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Install Libraries
+        run: pip install -r requirements.txt
+        
+      - name: Generate ICS
+        run: python generate.py
+        
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update calendar"
+          file_pattern: "*.ics"
