@@ -1,64 +1,71 @@
-# Calendar
+# Tamil Panchangam for Stuttgart
 
-A high-precision Python tool that generates an `.ics` calendar file for **Tamil Hindu festivals and Tithis** specifically localized for **Stuttgart, Germany**. 
+Hi! This is a project I built to solve a specific problem: keeping track of Tamil festivals and Tithi timings accurately while living in **Stuttgart, Germany**.
 
-Unlike standard calendars, this tool calculates the **exact astronomical windows** (start and end times) for lunar phases (Tithis) using NASA-grade planetary data, ensuring your fasting and puja timings are accurate to the minute for your specific location.
+Most calendars we get from home are calculated for India time (IST). Simply subtracting 3.5 or 4.5 hours doesn't always work because Tithis (lunar days) are based on the angle between the Sun and Moon, not just the clock.
 
----
-
-## ✨ Features
-
-### 1. Astronomical Precision
-* **NASA Ephemerides:** Uses the `skyfield` library and `de421.bsp` (NASA JPL planetary data) for high-accuracy Sun and Moon tracking.
-* **Geocentric Tithi Calculation:** Calculates the exact moment of Tithi transitions based on the 12° angular separation between the Sun and Moon.
-
-### 2. Comprehensive Tamil Festival Support
-The script tracks three distinct types of events:
-* **Lunar Tithis:** Automatically identifies recurring days like **Ekadashi** (Shukla/Krishna), **Pradosham**, **Sankata Hara Chaturthi**, and **Shashti**.
-* **Solar Events:** Detects Solar Sankrantis (Sun entering a new Rashi), specifically for **Pongal (Makara Sankranti)** and **Puthandu (Tamil New Year)**.
-* **Calculated Festivals:** Includes a pre-mapped dictionary of 2026 major festivals from the Tamil calendar, such as **Deepavali**, **Thai Pusam**, **Soora Samharam**, and **Maha Shivaratri**.
-
-### 3. Localized for Stuttgart
-* **Timezone Awareness:** All astronomical UTC timestamps are automatically converted to **Europe/Berlin** time.
-* **DST Handling:** Correctly handles the shift between Central European Time (CET) and Daylight Saving Time (CEST).
-* **Location Based:** While Tithis are geocentric, the display times and specific festival dates are optimized for the Stuttgart geographic coordinates.
-
-### 4. Smart ICS Output
-* **Universal Compatibility:** Generates a standard `.ics` file compatible with **Google Calendar, Apple Calendar, and Outlook**.
-* **Precise Durations:** Provides specific start/end times for fasting windows rather than just "all-day" blocks.
-* **Automatic Categorization:** Differentiates between astronomical durations and cultural festivals in event descriptions.
+This tool does the heavy lifting to calculate the **exact astronomical windows** for fasting and rituals, customized specifically for Stuttgart’s location and time zone.
 
 ---
 
-## 🛠️ Installation & Setup
+## Why use this?
 
-### Prerequisites
-* Python 3.8+
-* [Skyfield](https://rhodesmill.org/skyfield/)
-* [ics.py](https://ics-py.readthedocs.io/)
-* [pytz](https://pythonhosted.org/pytz/)
+### 1. It’s actually accurate for Germany
+Instead of using approximations, this tool connects to NASA's planetary data (using a library called `skyfield`). It calculates the exact minute a Tithi begins and ends based on where we are. It handles the switch between Winter time (CET) and Summer time (CEST) automatically, so you don't have to do the math in your head.
+
+### 2. It tracks the important stuff
+I designed this to track three main types of events:
+* **Fasting/Recurring Days:** It automatically finds the start and end times for **Ekadashi, Pradosham, Sankatahara Chaturthi, and Shashti**.
+* **Solar Events:** It knows exactly when the Sun enters a new Rashi (Zodiac), which is crucial for dates like **Pongal** and **Tamil New Year (Puthandu)**.
+* **Major Festivals:** I've included a list of major festivals for 2026, like **Deepavali, Thai Pusam, and Maha Shivaratri**.
+
+### 3. It works with your phone
+The output is a standard `.ics` file. This means you can subscribe to it using Google Calendar, Apple Calendar (on iPhone/Mac), or Outlook, and the events will just show up alongside your work meetings and personal appointments.
 
 ---
 
-## Usage
-Subscription : https://shreyasgiridharan.github.io/Calendar/stuttgart_calendar.ics
+## How to use it
+
+### The Easy Way (Subscribe)
+You don't need to run any code if you just want the calendar. You can subscribe to the live calendar link below. This will keep your phone updated automatically.
+
+**📅 Subscription Link for Germany:**
+`https://shreyasgiridharan.github.io/Calendar/Calendar-Stuttgart.ics`
+
+**📅 Subscription Link for India:**
+`https://shreyasgiridharan.github.io/Calendar/Calendar-India.ics`
+
+### The "Do It Yourself" Way
+If you prefer to run the script yourself or want to modify the code, here is how you get it running.
+
+**Prerequisites**
+You'll need Python 3.8 or higher, plus a few libraries to handle the astronomy and timezone math:
+* `skyfield` (for the planetary data)
+* `ics` (to make the calendar file)
+* `pytz` (for timezone handling)
+
+**Running the generator**
+Just run the script, and it will generate the `.ics` files locally on your machine.
 
 ---
 
-## Manual Events 
-```bash
+## Adding Custom Events
+If you run the code yourself, you can add your own personal events (like family pujas or birthdays) by creating a `manual_events.json` file. The script will weave these into the final calendar.
+
+Here is an example of how to format that file:
+
+```json
 [
   {
-    "name": "Kumbhabhishekam (All Day Example)",
-    "date": "2026-05-20",
-    "description": "Full day festival. Remember fruits."
-  },
-  {
-    "name": "Special Puja (Timed Example)",
+    "name": "House Warming Puja",
     "start": "2026-08-15 10:30",
     "end": "2026-08-15 12:00",
-    "description": "Specific timings for the ritual."
+    "timezone": "Europe/Berlin",
+    "description": "Don't forget the flowers!"
   }
 ]
 
 ---
+
+## Support the Project
+If you find this calendar useful or like what I'm doing here, please consider starring this repo! ⭐ It helps others find the project and motivates me to keep improving it.
