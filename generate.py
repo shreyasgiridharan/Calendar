@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """
 Indian Panchangam ICS generator (Tamil & Telugu support).
-Version: 13.0 (Rich Metadata: Festivals now include Deity, Food, and specific Nakshatra/Weekday rules)
+Version: 15.1 (Bugfix: Fixed datetime object type mismatch in Lunar Month calculation)
 """
 
 from __future__ import annotations
 
 import warnings
-# Force suppression of the ICS library FutureWarning to keep output clean
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 import json
@@ -775,50 +774,109 @@ def samvatsara_for_date(d: date, new_year_dates: Dict[int, date]) -> str:
     sy = y if ny and d >= ny else (y - 1)
     return SAMVATSARA_NAMES[(sy - BASE_SAMVATSARA_YEAR) % 60]
 
-def month_day_numbers_solar(earth, sun, ts, sunr, start_d, end_d, lang):
-    back = start_d - timedelta(days=40)
-    idx_map = {}
-    d = back
-    while d <= end_d:
-        if d in sunr:
-            mi = int(solar_rasi_idx(ts.from_datetime(sunr[d].astimezone(UTC)), earth, sun))
-            idx_map[d] = mi
-        d += timedelta(days=1)
-    res = {}
-    cur = None
-    cnt = 0
-    for d in sorted(idx_map):
-        mi = idx_map[d]
-        if cur is None or mi != cur: cur, cnt = mi, 1
-        else: cnt += 1
-        res[d] = (solar_month_name(mi, lang), cnt, rasi_name(mi, lang), mi)
-    return {d: res[d] for d in res if start_d <= d <= end_d}
+def month_day_numbers_solar(earth, sun, ts, planets, loc, start_d, end_d, lang):
+    back_days = 45
+    t0 = UTC.localize(datetime.combine(start_d - timedelta(days=back_days), time(0,0)))
+    t1 = UTC.localize(datetime.combine(end_d + timedelta(days=15), time(0,0)))
+    
+    def f_rasi(t): return solar_rasi_idx(t, earth, sun)
+    f_rasi.step_days = DISCRETE_STEP_DAYS
+    
+    ingress_times, rasi_values = precompute_discrete(ts, t0, t1, f_rasi)
+    month_starts = {} 
+    
+    for t_ing, r_val in zip(ingress_times, rasi_values):
+        tz = pytz.timezone(loc.tz)
+        dt_local = t_ing.astimezone(tz)
+        d_civil = dt_local.date()
+        sr, ss = sunrise_sunset_for_local_date(ts, planets, loc, d_civil)
+        if ss and dt_local < ss: month_starts[d_civil] = r_val
+        else: month_starts[d_civil + timedelta(days=1)] = r_val
 
-def get_lunar_month_map(earth, sun, moon, ts, start_d, end_d, lang):
-    back = start_d - timedelta(days=50)
-    end_fwd = end_d + timedelta(days=20)
-    t0 = UTC.localize(datetime.combine(back, time(0,0)))
-    t1 = UTC.localize(datetime.combine(end_fwd, time(0,0)))
+    current_mi = -1
+    last_start_date = start_d - timedelta(days=back_days)
+    sorted_starts = sorted(month_starts.keys())
+    found_start = False
+    for s_date in sorted_starts:
+        if s_date <= start_d:
+            current_mi = month_starts[s_date]
+            last_start_date = s_date
+            found_start = True
+        else: break
+            
+    if not found_start:
+        t_check = UTC.localize(datetime.combine(start_d, time(6,0)))
+        current_mi = int(solar_rasi_idx(ts.from_datetime(t_check), earth, sun))
+        last_start_date = start_d
+    
+    day_count = (start_d - last_start_date).days + 1
+    res = {}
+    d = start_d
+    while d <= end_d:
+        if d in month_starts:
+            current_mi = month_starts[d]
+            day_count = 1
+        res[d] = (solar_month_name(current_mi, lang), day_count, rasi_name(current_mi, lang), current_mi)
+        d += timedelta(days=1)
+        day_count += 1
+    return res
+
+def get_lunar_month_map(earth, sun, moon, ts, planets, loc, start_d, end_d, lang):
+    # Search range for lunar months
+    back_days = 60
+    t0 = UTC.localize(datetime.combine(start_d - timedelta(days=back_days), time(0,0)))
+    t1 = UTC.localize(datetime.combine(end_d + timedelta(days=30), time(0,0)))
+    
+    # 1. Find all Tithi 1 Starts (New Moon Ends)
     def f_tithi(t): return tithi_idx(t, earth, sun, moon)
     f_tithi.step_days = DISCRETE_STEP_DAYS
     changes, values = precompute_discrete(ts, t0, t1, f_tithi)
-    starts = [t for i, t in enumerate(changes) if values[i] == 1]
-    starts.sort()
+    
+    # Store (timestamp, new_month_index)
+    month_transitions = []
+    
+    for i, t in enumerate(changes):
+        if values[i] == 1: # Tithi became 1 (Prathama)
+            # Determine Month Name based on Solar Rasi at this moment + 1
+            # FIX: t is already datetime, so use it directly
+            s_idx = solar_rasi_idx(ts.from_datetime(t), earth, sun)
+            lunar_month_idx = (s_idx + 1) % 12
+            month_transitions.append((t, lunar_month_idx))
+    
+    month_transitions.sort(key=lambda x: x[0])
+    
     res = {}
-    s_idx = solar_rasi_idx(ts.from_datetime(t0), earth, sun)
-    cur_mi = (s_idx + 1) % 12
-    next_start = 0
-    d = back
+    d = start_d
+    tz = pytz.timezone(loc.tz)
+    
+    # Pre-calculate state for the first day
+    # Find the latest transition that happened BEFORE the sunrise of start_d
+    first_sr, _ = sunrise_sunset_for_local_date(ts, planets, loc, start_d)
+    
+    # Fallback if no transition found (rare)
+    cur_mi = 0 
+    
     while d <= end_d:
-        d_end = UTC.localize(datetime.combine(d+timedelta(days=1), time(0,0)))
-        while next_start < len(starts) and starts[next_start] < d_end:
-            st = starts[next_start]
-            s_idx = solar_rasi_idx(ts.from_datetime(st), earth, sun)
-            cur_mi = (s_idx + 1) % 12
-            next_start += 1
+        sr, _ = sunrise_sunset_for_local_date(ts, planets, loc, d)
+        
+        # If we have sunrise, check which month applies
+        if sr:
+            # Find the latest transition strictly before sunrise
+            best_idx = -1
+            for i, (t_trans, m_idx) in enumerate(month_transitions):
+                # FIX: t_trans is already datetime (UTC aware)
+                if t_trans < sr.astimezone(UTC):
+                    best_idx = i
+                else:
+                    break
+            
+            if best_idx != -1:
+                cur_mi = month_transitions[best_idx][1]
+        
         res[d] = (lunar_month_name(cur_mi, lang), cur_mi)
         d += timedelta(days=1)
-    return {k:v for k,v in res.items() if start_d <= k <= end_d}
+        
+    return res
 
 def build_calendar(loc, ts, planets, earth, sun, moon, t_ch, t_v, n_ch, n_v):
     tz = pytz.timezone(loc.tz)
@@ -835,13 +893,14 @@ def build_calendar(loc, ts, planets, earth, sun, moon, t_ch, t_v, n_ch, n_v):
     
     s_info = {}
     l_info = {}
-    if loc.style == "TAMIL": s_info = month_day_numbers_solar(earth, sun, ts, sunr, start_d, end_d, loc.lang)
-    else: l_info = get_lunar_month_map(earth, sun, moon, ts, start_d, end_d, loc.lang)
+    if loc.style == "TAMIL": 
+        s_info = month_day_numbers_solar(earth, sun, ts, planets, loc, start_d, end_d, loc.lang)
+    else: 
+        # UPDATED: Pass planets/loc to new lunar logic
+        l_info = get_lunar_month_map(earth, sun, moon, ts, planets, loc, start_d, end_d, loc.lang)
         
     cal = Calendar()
     
-    # Track existing events to prevent duplicates
-    # Structure: {uid: True}
     seen_uids: Set[str] = set()
 
     d = start_d
@@ -871,7 +930,6 @@ def build_calendar(loc, ts, planets, earth, sun, moon, t_ch, t_v, n_ch, n_v):
             
             # 2. Add Full-Day Festivals (Rich Metadata)
             for item in festivals:
-                # item is now a DisplayEvent object
                 uid_fest = f"{loc.key}-{d.isoformat()}-{item.uid_suffix}@festival"
                 if uid_fest not in seen_uids:
                     fe = Event()
@@ -890,15 +948,12 @@ def build_calendar(loc, ts, planets, earth, sun, moon, t_ch, t_v, n_ch, n_v):
 
             # 3. Add Timed Vratam Events (Deduplicated)
             for v_event in vratam_events:
-                # Unique ID now based on the event name + start date + hour/min of start
-                # This handles cases where a tithi might span across two Gregorian days
                 v_start_str = v_event.start.astimezone(tz).strftime("%Y%m%d%H%M")
                 uid_vrat = f"{loc.key}-{v_start_str}-{v_event.name.replace(' ','')}@vratam"
                 
                 if uid_vrat not in seen_uids:
                     fe = Event()
                     fe.name = f"⏳ {v_event.name}"
-                    # Explicit start and end times (NOT all-day)
                     fe.begin = v_event.start.astimezone(tz)
                     fe.end = v_event.end.astimezone(tz)
                     fe.categories = {"VRATAM"}
