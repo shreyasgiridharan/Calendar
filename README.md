@@ -64,7 +64,7 @@ Here is an example of how to format that file:
     "description": "Don't forget the flowers!"
   }
 ]
-
+```
 ---
 
 ## Support the Project
