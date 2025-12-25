@@ -26,15 +26,18 @@ The output is a standard `.ics` file. This means you can subscribe to it using G
 
 ## How to use it
 
-### The Easy Way (Subscribe)
-You don't need to run any code if you just want the calendar. You can subscribe to the live calendar link below. This will keep your phone updated automatically.
+## 📅 Subscription Links (The Easy Way)
 
-**📅 Subscription Link for Germany:**
-`https://shreyasgiridharan.github.io/Calendar/Calendar-Stuttgart.ics`
+You don't need to run code to use this. Copy the link below for your preferred region and style, and add it to your calendar app as a "Subscribed Calendar".
 
-**📅 Subscription Link for India:**
-`https://shreyasgiridharan.github.io/Calendar/Calendar-India.ics`
+| Region | Style | Subscription Link |
+| :--- | :--- | :--- |
+| **Germany** | **Tamil** | `https://shreyasgiridharan.github.io/Calendar/Calendar-Stuttgart-Tamil.ics` |
+| **Germany** | **Telugu** | `https://shreyasgiridharan.github.io/Calendar/Calendar-Stuttgart-Telugu.ics` |
+| **India** | **Tamil** | `https://shreyasgiridharan.github.io/Calendar/Calendar-India-Tamil.ics` |
+| **India** | **Telugu** | `https://shreyasgiridharan.github.io/Calendar/Calendar-India-Telugu.ics` |
 
+---
 ### The "Do It Yourself" Way
 If you prefer to run the script yourself or want to modify the code, here is how you get it running.
 
