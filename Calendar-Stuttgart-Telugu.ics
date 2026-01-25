@@ -172,13 +172,6 @@ SUMMARY:Karthikamu Krishna Paksham Vidiya  (26.11.2026)
 UID:stuttgart-te-2026-11-26@panchangam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260121
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Maghamu Shukla Paksham Thadiya  (21.01.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Shukla Paksham\nTithi: upto 10.17 PM Thadiya\, thereafter Chavithi\nVaram: Budhavaram\nNakshatram: upto 10.08 AM Dhanishta (4 Padam)\, and then Shatabhisham\nYogam: Vyatipata\nKaranam: Thaitilai\nRahu Kalam: 12.34 PM to 1.41 PM\nYamagandam: 9.13 AM to 10.20 AM\nDurmuhurtham: 11.05 AM to 11.41 AM\nAbhijit Muhurtham: 12.16 PM to 12.52 PM\nSuryodayam: 8.06 AM\nSuryastamayam: 5.03 PM\nChandrodayam: 9.31 AM\nChandrashtamam: Karkatakam\nTaddinam Tithi: Thadiya\nPradesham: Stuttgart (Telugu Style)
-SUMMARY:Maghamu Shukla Paksham Thadiya  (21.01.2026)
-UID:stuttgart-te-2026-01-21@panchangam
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:
@@ -317,7 +310,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261111
 CATEGORIES:PANCHANGAM
-DESCRIPTION:Karthikamu Shukla Paksham Vidiya  (11.11.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Sarad Ruthuvu\nMasam: Karthikamu\nPaksham: Shukla Paksham\nTithi: upto 11.23 AM Vidiya\, thereafter Thadiya\nVaram: Budhavaram\nNakshatram: upto 7.53 AM Anuradha (4 Padam)\, and then Jyeshta\nYogam: Atiganda\nKaranam: Kaulavai\nRahu Kalam: 12.06 PM to 1.17 PM\nYamagandam: 8.35 AM to 9.46 AM\nDurmuhurtham: 10.33 AM to 11.10 AM\nAbhijit Muhurtham: 11.48 AM to 12.25 PM\nSuryodayam: 7.25 AM\nSuryastamayam: 4.48 PM\nChandrodayam: 10.07 AM\nChandrashtamam: Mesham\nTaddinam Tithi: Thadiya\nPradesham: Stuttgart (Telugu Style)
+DESCRIPTION:Karthikamu Shukla Paksham Vidiya  (11.11.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Sarad Ruthuvu\nMasam: Karthikamu\nPaksham: Shukla Paksham\nTithi: upto 11.23 AM Vidiya\, thereafter Thadiya\nVaram: Budhavaram\nNakshatram: upto 7.53 AM Anuradha (4 Padam)\, and then Jyeshta\nYogam: Atiganda\nKaranam: Kaulavai\nRahu Kalam: 12.07 PM to 1.17 PM\nYamagandam: 8.35 AM to 9.46 AM\nDurmuhurtham: 10.33 AM to 11.10 AM\nAbhijit Muhurtham: 11.48 AM to 12.25 PM\nSuryodayam: 7.25 AM\nSuryastamayam: 4.48 PM\nChandrodayam: 10.07 AM\nChandrashtamam: Mesham\nTaddinam Tithi: Thadiya\nPradesham: Stuttgart (Telugu Style)
 SUMMARY:Karthikamu Shukla Paksham Vidiya  (11.11.2026)
 UID:stuttgart-te-2026-11-11@panchangam
 END:VEVENT
@@ -374,6 +367,13 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Vaishakhamu Shukla Paksham Navami  (25.04.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Vasantha Ruthuvu\nMasam: Vaishakhamu\nPaksham: Shukla Paksham\nTithi: upto 2.58 PM Navami\, thereafter Dashami\nVaram: Shanivaram\nNakshatram: upto 5.14 PM Ashlesha (3 Padam)\, and then Makha\nYogam: Ganda\nKaranam: Kaulavai\nRahu Kalam: 9.47 AM to 11.34 AM\nYamagandam: 3.08 PM to 4.55 PM\nDurmuhurtham: 6.13 AM to 7.10 AM\nAbhijit Muhurtham: 12.53 PM to 1.50 PM\nSuryodayam: 6.13 AM\nSuryastamayam: 8.29 PM\nChandrodayam: 1.41 PM\nChandrashtamam: Dhanu\nTaddinam Tithi: Dashami\nPradesham: Stuttgart (Telugu Style)
 SUMMARY:Vaishakhamu Shukla Paksham Navami  (25.04.2026)
 UID:stuttgart-te-2026-04-25@panchangam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270123
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Pushyamu Krishna Paksham Padyami  (23.01.2027)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Hemantha Ruthuvu\nMasam: Pushyamu\nPaksham: Krishna Paksham\nTithi: upto 9.43 AM Padyami\, upto 6.27 AM Vidiya\, thereafter Thadiya\nVaram: Shanivaram\nNakshatram: upto 1.00 AM Ashlesha (1 Padam)\, and then Makha\nYogam: Aayushman\nKaranam: Kaulavai\nRahu Kalam: 10.19 AM to 11.27 AM\nYamagandam: 1.42 PM to 2.50 PM\nDurmuhurtham: 8.04 AM to 8.40 AM\nAbhijit Muhurtham: 12.17 PM to 12.53 PM\nSuryodayam: 8.04 AM\nSuryastamayam: 5.06 PM\nChandrodayam: 6.37 PM\nChandrashtamam: Dhanu\nTaddinam Tithi: Vidiya\nPradesham: Stuttgart (Telugu Style)
+SUMMARY:Pushyamu Krishna Paksham Padyami  (23.01.2027)
+UID:stuttgart-te-2027-01-23@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260704
@@ -771,13 +771,6 @@ SUMMARY:Karthikamu Krishna Paksham Panchami  (28.11.2026)
 UID:stuttgart-te-2026-11-28@panchangam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260123
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Maghamu Shukla Paksham Panchami  (23.01.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Shukla Paksham\nTithi: upto 9.16 PM Panchami\, thereafter Shashti\nVaram: Shukravaram\nNakshatram: upto 10.42 AM Poorvabhadra (4 Padam)\, and then Uttarabhadra\nYogam: Parigha\nKaranam: Bavai\nRahu Kalam: 11.27 AM to 12.35 PM\nYamagandam: 2.50 PM to 3.58 PM\nDurmuhurtham: 9.52 AM to 10.28 AM\, 12.53 PM to 1.29 PM\nAbhijit Muhurtham: 12.17 PM to 12.53 PM\nSuryodayam: 8.04 AM\nSuryastamayam: 5.06 PM\nChandrodayam: 10.00 AM\nChandrashtamam: Simham\nTaddinam Tithi: Panchami\nPradesham: Stuttgart (Telugu Style)
-SUMMARY:Maghamu Shukla Paksham Panchami  (23.01.2026)
-UID:stuttgart-te-2026-01-23@panchangam
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:
@@ -981,6 +974,13 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Jyeshthamu Krishna Paksham Shashti  (06.07.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Grishma Ruthuvu\nMasam: Jyeshthamu\nPaksham: Krishna Paksham\nTithi: upto 10.17 AM Shashti\, thereafter Saptami\nVaram: Somavaram\nNakshatram: upto 1.18 PM Poorvabhadra (3 Padam)\, and then Uttarabhadra\nYogam: Saubhagya\nKaranam: Vanijai\nRahu Kalam: 7.27 AM to 9.27 AM\nYamagandam: 11.27 AM to 1.27 PM\nDurmuhurtham: 1.59 PM to 3.03 PM\nAbhijit Muhurtham: 12.55 PM to 1.59 PM\nSuryodayam: 5.27 AM\nSuryastamayam: 9.27 PM\nChandrodayam: 12.02 AM\nChandrashtamam: Karkatakam\nTaddinam Tithi: Saptami\nPradesham: Stuttgart (Telugu Style)
 SUMMARY:Jyeshthamu Krishna Paksham Shashti  (06.07.2026)
 UID:stuttgart-te-2026-07-06@panchangam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270125
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Pushyamu Krishna Paksham Chavithi  (25.01.2027)\n\n🎉 SPECIAL: Sankatahara Chathurthi\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Hemantha Ruthuvu\nMasam: Pushyamu\nPaksham: Krishna Paksham\nTithi: upto 1.30 AM Chavithi\, thereafter Panchami\nVaram: Somavaram\nNakshatram: upto 9.11 PM Pubba (2 Padam)\, and then Uttara\nYogam: Shobhana\nKaranam: Bavai\nRahu Kalam: 9.10 AM to 10.19 AM\nYamagandam: 11.27 AM to 12.35 PM\nDurmuhurtham: 12.53 PM to 1.30 PM\nAbhijit Muhurtham: 12.17 PM to 12.53 PM\nSuryodayam: 8.02 AM\nSuryastamayam: 5.09 PM\nChandrodayam: 9.26 PM\nChandrashtamam: Makaram\nTaddinam Tithi: Chavithi\nPradesham: Stuttgart (Telugu Style)
+SUMMARY:Pushyamu Krishna Paksham Chavithi  (25.01.2027)
+UID:stuttgart-te-2027-01-25@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260816
@@ -1246,6 +1246,19 @@ SUMMARY:Sravanamu Shukla Paksham Chaturdashi  (26.08.2026)
 UID:stuttgart-te-2026-08-26@panchangam
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-P1D
+END:VALARM
+CATEGORIES:VRATAM
+DESCRIPTION:Astronomical duration of Pradosham (Shukla).
+DTEND:20270120T194206Z
+DTSTART:20270119T231152Z
+SUMMARY:⏳ Pradosham (Shukla)
+UID:stuttgart-te-202701200011-Pradosham(Shukla)@vratam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Ashwayujamu Krishna Paksham Shashti  (31.10.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Sarad Ruthuvu\nMasam: Ashwayujamu\nPaksham: Krishna Paksham\nTithi: upto 12.27 PM Shashti\, thereafter Saptami\nVaram: Shanivaram\nNakshatram: upto 1.48 AM Punarvasu (1 Padam)\, and then Pushyami\nYogam: Siddha\nKaranam: Vanijai\nRahu Kalam: 9.37 AM to 10.51 AM\nYamagandam: 1.21 PM to 2.35 PM\nDurmuhurtham: 7.08 AM to 7.47 AM\nAbhijit Muhurtham: 11.46 AM to 12.26 PM\nSuryodayam: 7.08 AM\nSuryastamayam: 5.04 PM\nChandrodayam: 9.37 PM\nChandrashtamam: Vrushchikam\nTaddinam Tithi: Saptami\nPradesham: Stuttgart (Telugu Style)
@@ -1379,6 +1392,13 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Jyeshthamu Krishna Paksham Vidiya  (01.07.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Grishma Ruthuvu\nMasam: Jyeshthamu\nPaksham: Krishna Paksham\nTithi: Vidiya\nVaram: Budhavaram\nNakshatram: Uttarashada (1 Padam)\nYogam: Indra\nKaranam: Thaitilai\nRahu Kalam: 1.27 PM to 3.27 PM\nYamagandam: 7.24 AM to 9.25 AM\nDurmuhurtham: 10.46 AM to 11.50 AM\nAbhijit Muhurtham: 12.54 PM to 1.59 PM\nSuryodayam: 5.24 AM\nSuryastamayam: 9.29 PM\nChandrodayam: 10.52 PM\nChandrashtamam: Vrushabham\nTaddinam Tithi: Vidiya\nPradesham: Stuttgart (Telugu Style)
 SUMMARY:Jyeshthamu Krishna Paksham Vidiya  (01.07.2026)
 UID:stuttgart-te-2026-07-01@panchangam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270120
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Pushyamu Shukla Paksham Trayodashi  (20.01.2027)\n\n🎉 SPECIAL: Pradosham (Shukla)\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Hemantha Ruthuvu\nMasam: Pushyamu\nPaksham: Shukla Paksham\nTithi: upto 8.42 PM Trayodashi\, thereafter Chaturdashi\nVaram: Budhavaram\nNakshatram: upto 12.23 PM Mrigashira (4 Padam)\, and then Arudra\nYogam: Indra\nKaranam: Kaulavai\nRahu Kalam: 12.34 PM to 1.41 PM\nYamagandam: 9.14 AM to 10.20 AM\nDurmuhurtham: 11.05 AM to 11.41 AM\nAbhijit Muhurtham: 12.16 PM to 12.52 PM\nSuryodayam: 8.07 AM\nSuryastamayam: 5.01 PM\nChandrodayam: 2.14 PM\nChandrashtamam: Vrushchikam\nTaddinam Tithi: Trayodashi\nPradesham: Stuttgart (Telugu Style)
+SUMMARY:Pushyamu Shukla Paksham Trayodashi  (20.01.2027)
+UID:stuttgart-te-2027-01-20@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260811
@@ -1729,6 +1749,13 @@ SUMMARY:Sravanamu Shukla Paksham Navami  (21.08.2026)
 UID:stuttgart-te-2026-08-21@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270119
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Pushyamu Shukla Paksham Dwadashi  (19.01.2027)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Hemantha Ruthuvu\nMasam: Pushyamu\nPaksham: Shukla Paksham\nTithi: upto 12.11 AM Dwadashi\, thereafter Trayodashi\nVaram: Mangalavaram\nNakshatram: upto 3.01 PM Rohini (3 Padam)\, and then Mrigashira\nYogam: Brahma\nKaranam: Bavai\nRahu Kalam: 2.47 PM to 3.53 PM\nYamagandam: 10.21 AM to 11.27 AM\nDurmuhurtham: 9.19 AM to 9.54 AM\, 11.40 AM to 12.16 PM\nAbhijit Muhurtham: 12.16 PM to 12.51 PM\nSuryodayam: 8.08 AM\nSuryastamayam: 5.00 PM\nChandrodayam: 1.07 PM\nChandrashtamam: Thula\nTaddinam Tithi: Dwadashi\nPradesham: Stuttgart (Telugu Style)
+SUMMARY:Pushyamu Shukla Paksham Dwadashi  (19.01.2027)
+UID:stuttgart-te-2027-01-19@panchangam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Ashwayujamu Shukla Paksham Panchami  (15.10.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Sarad Ruthuvu\nMasam: Ashwayujamu\nPaksham: Shukla Paksham\nTithi: upto 11.55 PM Panchami\, thereafter Shashti\nVaram: Guruvaram\nNakshatram: upto 4.03 AM Jyeshta (1 Padam)\, and then Moola\nYogam: Saubhagya\nKaranam: Bavai\nRahu Kalam: 2.29 PM to 3.51 PM\nYamagandam: 7.43 AM to 9.04 AM\nDurmuhurtham: 2.13 PM to 2.57 PM\nAbhijit Muhurtham: 12.46 PM to 1.30 PM\nSuryodayam: 7.43 AM\nSuryastamayam: 6.33 PM\nChandrodayam: 1.19 PM\nChandrashtamam: Mesham\nTaddinam Tithi: Panchami\nPradesham: Stuttgart (Telugu Style)
@@ -1741,13 +1768,6 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Karthikamu Krishna Paksham Padyami  (25.11.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Sarad Ruthuvu\nMasam: Karthikamu\nPaksham: Krishna Paksham\nTithi: upto 12.20 PM Padyami\, thereafter Vidiya\nVaram: Budhavaram\nNakshatram: upto 4.42 PM Rohini (3 Padam)\, and then Mrigashira\nYogam: Shiva\nKaranam: Kaulavai\nRahu Kalam: 12.10 PM to 1.15 PM\nYamagandam: 8.52 AM to 9.58 AM\nDurmuhurtham: 10.42 AM to 11.17 AM\nAbhijit Muhurtham: 11.52 AM to 12.27 PM\nSuryodayam: 7.46 AM\nSuryastamayam: 4.33 PM\nChandrodayam: 4.49 PM\nChandrashtamam: Thula\nTaddinam Tithi: Vidiya\nPradesham: Stuttgart (Telugu Style)
 SUMMARY:Karthikamu Krishna Paksham Padyami  (25.11.2026)
 UID:stuttgart-te-2026-11-25@panchangam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260120
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Maghamu Shukla Paksham Vidiya  (20.01.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Shukla Paksham\nTithi: upto 10.13 PM Vidiya\, thereafter Thadiya\nVaram: Mangalavaram\nNakshatram: upto 9.18 AM Shravana (4 Padam)\, and then Dhanishta\nYogam: Siddhi\nKaranam: Balavai\nRahu Kalam: 2.48 PM to 3.55 PM\nYamagandam: 10.20 AM to 11.27 AM\nDurmuhurtham: 9.18 AM to 9.54 AM\, 11.41 AM to 12.16 PM\nAbhijit Muhurtham: 12.16 PM to 12.52 PM\nSuryodayam: 8.07 AM\nSuryastamayam: 5.01 PM\nChandrodayam: 9.13 AM\nChandrashtamam: Mithunam\nTaddinam Tithi: Vidiya\nPradesham: Stuttgart (Telugu Style)
-SUMMARY:Maghamu Shukla Paksham Vidiya  (20.01.2026)
-UID:stuttgart-te-2026-01-20@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260219
@@ -1902,6 +1922,13 @@ SUMMARY:Vaishakhamu Shukla Paksham Ashtami  (24.04.2026)
 UID:stuttgart-te-2026-04-24@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270122
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Pushyamu Shukla Paksham Pournami 🌕 (22.01.2027)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Hemantha Ruthuvu\nMasam: Pushyamu\nPaksham: Shukla Paksham\nTithi: upto 1.17 PM Pournami\, thereafter Padyami\nVaram: Shukravaram\nNakshatram: upto 3.37 AM Pushyami (1 Padam)\, and then Ashlesha\nYogam: Vishkambha\nKaranam: Bavai\nRahu Kalam: 11.27 AM to 12.34 PM\nYamagandam: 2.49 PM to 3.57 PM\nDurmuhurtham: 9.53 AM to 10.29 AM\, 12.52 PM to 1.28 PM\nAbhijit Muhurtham: 12.17 PM to 12.52 PM\nSuryodayam: 8.05 AM\nSuryastamayam: 5.04 PM\nChandrodayam: 5.07 PM\nChandrashtamam: Dhanu\nTaddinam Tithi: Padyami\nPradesham: Stuttgart (Telugu Style)
+SUMMARY:Pushyamu Shukla Paksham Pournami 🌕 (22.01.2027)
+UID:stuttgart-te-2027-01-22@panchangam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Jyeshthamu Krishna Paksham Thadiya  (03.07.2026)\n\n🎉 SPECIAL: Sankatahara Chathurthi\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Grishma Ruthuvu\nMasam: Jyeshthamu\nPaksham: Krishna Paksham\nTithi: upto 7.50 AM Thadiya\, thereafter Chavithi\nVaram: Shukravaram\nNakshatram: upto 9.00 AM Shravana (4 Padam)\, and then Dhanishta\nYogam: Vishkambha\nKaranam: Vishti\nRahu Kalam: 11.26 AM to 1.27 PM\nYamagandam: 5.28 PM to 7.28 PM\nDurmuhurtham: 8.38 AM to 9.42 AM\, 1.59 PM to 3.03 PM\nAbhijit Muhurtham: 12.55 PM to 1.59 PM\nSuryodayam: 5.25 AM\nSuryastamayam: 9.29 PM\nChandrodayam: 11.32 PM\nChandrashtamam: Mithunam\nTaddinam Tithi: Chavithi\nPradesham: Stuttgart (Telugu Style)
@@ -2019,13 +2046,6 @@ SUMMARY:Maghamu Shukla Paksham Trayodashi  (30.01.2026)
 UID:stuttgart-te-2026-01-30@panchangam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260119
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Maghamu Shukla Paksham Padyami  (19.01.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Shukla Paksham\nTithi: upto 9.44 PM Padyami\, thereafter Vidiya\nVaram: Somavaram\nNakshatram: Shravana (1 Padam)\nYogam: Vajra\nKaranam: Kimstughna\nRahu Kalam: 9.14 AM to 10.21 AM\nYamagandam: 11.27 AM to 12.34 PM\nDurmuhurtham: 12.51 PM to 1.27 PM\nAbhijit Muhurtham: 12.16 PM to 12.51 PM\nSuryodayam: 8.07 AM\nSuryastamayam: 5.00 PM\nChandrodayam: 8.52 AM\nChandrashtamam: Mithunam\nTaddinam Tithi: Padyami\nPradesham: Stuttgart (Telugu Style)
-SUMMARY:Maghamu Shukla Paksham Padyami  (19.01.2026)
-UID:stuttgart-te-2026-01-19@panchangam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Vaishakhamu Krishna Paksham Shashti  (08.05.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Vasantha Ruthuvu\nMasam: Vaishakhamu\nPaksham: Krishna Paksham\nTithi: upto 8.52 AM Shashti\, thereafter Saptami\nVaram: Shukravaram\nNakshatram: upto 6.33 PM Uttarashada (3 Padam)\, and then Shravana\nYogam: Shubha\nKaranam: Vanijai\nRahu Kalam: 11.28 AM to 1.20 PM\nYamagandam: 5.04 PM to 6.56 PM\nDurmuhurtham: 8.51 AM to 9.51 AM\, 1.50 PM to 2.49 PM\nAbhijit Muhurtham: 12.50 PM to 1.50 PM\nSuryodayam: 5.51 AM\nSuryastamayam: 8.48 PM\nChandrodayam: 2.21 AM\nChandrashtamam: Mithunam\nTaddinam Tithi: Saptami\nPradesham: Stuttgart (Telugu Style)
@@ -2072,6 +2092,19 @@ DTEND:20260329T021657Z
 DTSTART:20260328T031615Z
 SUMMARY:⏳ Ekadashi (Shukla)
 UID:stuttgart-te-202603280416-Ekadashi(Shukla)@vratam
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-P1D
+END:VALARM
+CATEGORIES:VRATAM
+DESCRIPTION:Astronomical duration of Sankatahara Chathurthi.
+DTEND:20270126T003039Z
+DTSTART:20270125T024052Z
+SUMMARY:⏳ Sankatahara Chathurthi
+UID:stuttgart-te-202701250340-SankataharaChathurthi@vratam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260306
@@ -2314,13 +2347,6 @@ SUMMARY:Karthikamu Krishna Paksham Chavithi  (27.11.2026)
 UID:stuttgart-te-2026-11-27@panchangam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260122
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Maghamu Shukla Paksham Chavithi  (22.01.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Shukla Paksham\nTithi: upto 9.58 PM Chavithi\, thereafter Panchami\nVaram: Guruvaram\nNakshatram: upto 10.36 AM Shatabhisham (4 Padam)\, and then Poorvabhadra\nYogam: Variyana\nKaranam: Vanijai\nRahu Kalam: 1.42 PM to 2.50 PM\nYamagandam: 8.05 AM to 9.12 AM\nDurmuhurtham: 1.29 PM to 2.05 PM\nAbhijit Muhurtham: 12.17 PM to 12.53 PM\nSuryodayam: 8.05 AM\nSuryastamayam: 5.04 PM\nChandrodayam: 9.46 AM\nChandrashtamam: Karkatakam\nTaddinam Tithi: Chavithi\nPradesham: Stuttgart (Telugu Style)
-SUMMARY:Maghamu Shukla Paksham Chavithi  (22.01.2026)
-UID:stuttgart-te-2026-01-22@panchangam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Chaitramu Shukla Paksham Pournami 🌕 (01.04.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Vasantha Ruthuvu\nMasam: Chaitramu\nPaksham: Shukla Paksham\nTithi: upto 4.11 AM Pournami\, thereafter Padyami\nVaram: Budhavaram\nNakshatram: upto 1.29 PM Uttara (3 Padam)\, and then Hasta\nYogam: Vriddhi\nKaranam: Vishti\nRahu Kalam: 1.27 PM to 3.04 PM\nYamagandam: 8.37 AM to 10.14 AM\nDurmuhurtham: 11.18 AM to 12.10 PM\nAbhijit Muhurtham: 1.01 PM to 1.53 PM\nSuryodayam: 7.01 AM\nSuryastamayam: 7.53 PM\nChandrodayam: 7.34 PM\nChandrashtamam: Kumbham\nTaddinam Tithi: Pournami\nPradesham: Stuttgart (Telugu Style)
@@ -2479,6 +2505,13 @@ SUMMARY:Vaishakhamu Shukla Paksham Dashami  (26.04.2026)
 UID:stuttgart-te-2026-04-26@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270124
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Pushyamu Krishna Paksham Thadiya  (24.01.2027)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Hemantha Ruthuvu\nMasam: Pushyamu\nPaksham: Krishna Paksham\nTithi: upto 3.40 AM Thadiya\, thereafter Chavithi\nVaram: Bhanuvaram\nNakshatram: upto 10.48 PM Makha (2 Padam)\, and then Pubba\nYogam: Saubhagya\nKaranam: Vanijai\nRahu Kalam: 3.59 PM to 5.07 PM\nYamagandam: 12.35 PM to 1.43 PM\nDurmuhurtham: 3.55 PM to 4.31 PM\nAbhijit Muhurtham: 12.17 PM to 12.53 PM\nSuryodayam: 8.03 AM\nSuryastamayam: 5.07 PM\nChandrodayam: 8.04 PM\nChandrashtamam: Makaram\nTaddinam Tithi: Thadiya\nPradesham: Stuttgart (Telugu Style)
+SUMMARY:Pushyamu Krishna Paksham Thadiya  (24.01.2027)
+UID:stuttgart-te-2027-01-24@panchangam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Jyeshthamu Krishna Paksham Panchami  (05.07.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Grishma Ruthuvu\nMasam: Jyeshthamu\nPaksham: Krishna Paksham\nTithi: upto 10.01 AM Panchami\, thereafter Shashti\nVaram: Bhanuvaram\nNakshatram: upto 12.24 PM Shatabhisham (3 Padam)\, and then Poorvabhadra\nYogam: Aayushman\nKaranam: Thaitilai\nRahu Kalam: 7.28 PM to 9.28 PM\nYamagandam: 1.27 PM to 3.27 PM\nDurmuhurtham: 7.20 PM to 8.24 PM\nAbhijit Muhurtham: 12.55 PM to 1.59 PM\nSuryodayam: 5.26 AM\nSuryastamayam: 9.28 PM\nChandrodayam: N/A\nChandrashtamam: Karkatakam\nTaddinam Tithi: Shashti\nPradesham: Stuttgart (Telugu Style)
@@ -2561,19 +2594,6 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Ashadhamu Shukla Paksham Dashami  (23.07.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Grishma Ruthuvu\nMasam: Ashadhamu\nPaksham: Shukla Paksham\nTithi: upto 5.43 AM Dashami\, thereafter Ekadashi\nVaram: Guruvaram\nNakshatram: upto 10.57 PM Vishakha (2 Padam)\, and then Anuradha\nYogam: Shubha\nKaranam: Thaitilai\nRahu Kalam: 3.25 PM to 5.21 PM\nYamagandam: 5.45 AM to 7.41 AM\nDurmuhurtham: 3.02 PM to 4.04 PM\nAbhijit Muhurtham: 12.58 PM to 2.00 PM\nSuryodayam: 5.45 AM\nSuryastamayam: 9.13 PM\nChandrodayam: 4.47 PM\nChandrashtamam: Meenam\nTaddinam Tithi: Dashami\nPradesham: Stuttgart (Telugu Style)
 SUMMARY:Ashadhamu Shukla Paksham Dashami  (23.07.2026)
 UID:stuttgart-te-2026-07-23@panchangam
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-P1D
-END:VALARM
-CATEGORIES:VRATAM
-DESCRIPTION:Astronomical duration of Sashti (Shukla).
-DTEND:20260124T191026Z
-DTSTART:20260123T201631Z
-SUMMARY:⏳ Sashti (Shukla)
-UID:stuttgart-te-202601232116-Sashti(Shukla)@vratam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261027
@@ -2761,13 +2781,6 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Karthikamu Krishna Paksham Shashti  (29.11.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Sarad Ruthuvu\nMasam: Karthikamu\nPaksham: Krishna Paksham\nTithi: upto 9.17 PM Shashti\, thereafter Saptami\nVaram: Bhanuvaram\nNakshatram: upto 5.51 AM Ashlesha (1 Padam)\, and then Makha\nYogam: Brahma\nKaranam: Garajai\nRahu Kalam: 3.25 PM to 4.30 PM\nYamagandam: 12.11 PM to 1.16 PM\nDurmuhurtham: 3.21 PM to 3.55 PM\nAbhijit Muhurtham: 11.54 AM to 12.28 PM\nSuryodayam: 7.52 AM\nSuryastamayam: 4.30 PM\nChandrodayam: 10.09 PM\nChandrashtamam: Dhanu\nTaddinam Tithi: Shashti\nPradesham: Stuttgart (Telugu Style)
 SUMMARY:Karthikamu Krishna Paksham Shashti  (29.11.2026)
 UID:stuttgart-te-2026-11-29@panchangam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260124
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Maghamu Shukla Paksham Shashti  (24.01.2026)\n\n🎉 SPECIAL: Sashti (Shukla)\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Shukla Paksham\nTithi: upto 8.10 PM Shashti\, thereafter Saptami\nVaram: Shanivaram\nNakshatram: upto 10.24 AM Uttarabhadra (4 Padam)\, and then Revathi\nYogam: Shiva\nKaranam: Kaulavai\nRahu Kalam: 10.19 AM to 11.27 AM\nYamagandam: 1.43 PM to 2.51 PM\nDurmuhurtham: 8.03 AM to 8.39 AM\nAbhijit Muhurtham: 12.17 PM to 12.53 PM\nSuryodayam: 8.03 AM\nSuryastamayam: 5.08 PM\nChandrodayam: 10.15 AM\nChandrashtamam: Simham\nTaddinam Tithi: Shashti\nPradesham: Stuttgart (Telugu Style)
-SUMMARY:Maghamu Shukla Paksham Shashti  (24.01.2026)
-UID:stuttgart-te-2026-01-24@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
@@ -3226,7 +3239,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260717
 CATEGORIES:PANCHANGAM
-DESCRIPTION:Ashadhamu Shukla Paksham Chavithi  (17.07.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Grishma Ruthuvu\nMasam: Ashadhamu\nPaksham: Shukla Paksham\nTithi: upto 1.13 AM Chavithi\, thereafter Panchami\nVaram: Shukravaram\nNakshatram: upto 3.43 PM Makha (3 Padam)\, and then Pubba\nYogam: Vyatipata\nKaranam: Vanijai\nRahu Kalam: 11.31 AM to 1.29 PM\nYamagandam: 5.24 PM to 7.22 PM\nDurmuhurtham: 8.46 AM to 9.49 AM\, 2.00 PM to 3.03 PM\nAbhijit Muhurtham: 12.57 PM to 2.00 PM\nSuryodayam: 5.38 AM\nSuryastamayam: 9.19 PM\nChandrodayam: 9.24 AM\nChandrashtamam: Makaram\nTaddinam Tithi: Chavithi\nPradesham: Stuttgart (Telugu Style)
+DESCRIPTION:Ashadhamu Shukla Paksham Chavithi  (17.07.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Grishma Ruthuvu\nMasam: Ashadhamu\nPaksham: Shukla Paksham\nTithi: upto 1.13 AM Chavithi\, thereafter Panchami\nVaram: Shukravaram\nNakshatram: upto 3.43 PM Makha (3 Padam)\, and then Pubba\nYogam: Vyatipata\nKaranam: Vanijai\nRahu Kalam: 11.31 AM to 1.29 PM\nYamagandam: 5.24 PM to 7.22 PM\nDurmuhurtham: 8.46 AM to 9.49 AM\, 2.00 PM to 3.03 PM\nAbhijit Muhurtham: 12.57 PM to 2.00 PM\nSuryodayam: 5.38 AM\nSuryastamayam: 9.20 PM\nChandrodayam: 9.24 AM\nChandrashtamam: Makaram\nTaddinam Tithi: Chavithi\nPradesham: Stuttgart (Telugu Style)
 SUMMARY:Ashadhamu Shukla Paksham Chavithi  (17.07.2026)
 UID:stuttgart-te-2026-07-17@panchangam
 END:VEVENT
@@ -3393,6 +3406,13 @@ SUMMARY:Vaishakhamu Shukla Paksham Saptami  (23.04.2026)
 UID:stuttgart-te-2026-04-23@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270121
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Pushyamu Shukla Paksham Chaturdashi  (21.01.2027)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Hemantha Ruthuvu\nMasam: Pushyamu\nPaksham: Shukla Paksham\nTithi: upto 5.00 PM Chaturdashi\, thereafter Pournami\nVaram: Guruvaram\nNakshatram: upto 9.30 AM Arudra (4 Padam)\, upto 6.31 AM Punarvasu\, and then Pushyami\nYogam: Vaidhriti\nKaranam: Vanijai\nRahu Kalam: 1.41 PM to 2.48 PM\nYamagandam: 8.06 AM to 9.13 AM\nDurmuhurtham: 1.28 PM to 2.04 PM\nAbhijit Muhurtham: 12.16 PM to 12.52 PM\nSuryodayam: 8.06 AM\nSuryastamayam: 5.03 PM\nChandrodayam: 3.37 PM\nChandrashtamam: Vrushchikam\nTaddinam Tithi: Chaturdashi\nPradesham: Stuttgart (Telugu Style)
+SUMMARY:Pushyamu Shukla Paksham Chaturdashi  (21.01.2027)
+UID:stuttgart-te-2027-01-21@panchangam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260702
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Jyeshthamu Krishna Paksham Vidiya  (02.07.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Grishma Ruthuvu\nMasam: Jyeshthamu\nPaksham: Krishna Paksham\nTithi: upto 6.08 AM Vidiya\, thereafter Thadiya\nVaram: Guruvaram\nNakshatram: upto 6.41 AM Uttarashada (4 Padam)\, and then Shravana\nYogam: Vaidhriti\nKaranam: Garajai\nRahu Kalam: 3.27 PM to 5.28 PM\nYamagandam: 5.24 AM to 7.25 AM\nDurmuhurtham: 3.03 PM to 4.07 PM\nAbhijit Muhurtham: 12.55 PM to 1.59 PM\nSuryodayam: 5.24 AM\nSuryastamayam: 9.29 PM\nChandrodayam: 11.14 PM\nChandrashtamam: Mithunam\nTaddinam Tithi: Thadiya\nPradesham: Stuttgart (Telugu Style)
@@ -3521,13 +3541,6 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Ashwayujamu Shukla Paksham Trayodashi  (24.10.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Sarad Ruthuvu\nMasam: Ashwayujamu\nPaksham: Shukla Paksham\nTithi: upto 10.07 AM Trayodashi\, thereafter Chaturdashi\nVaram: Shanivaram\nNakshatram: upto 5.41 PM Uttarabhadra (3 Padam)\, and then Revathi\nYogam: Vyaghata\nKaranam: Thaitilai\nRahu Kalam: 10.32 AM to 11.49 AM\nYamagandam: 2.24 PM to 3.42 PM\nDurmuhurtham: 7.57 AM to 8.38 AM\nAbhijit Muhurtham: 12.46 PM to 1.27 PM\nSuryodayam: 7.57 AM\nSuryastamayam: 6.16 PM\nChandrodayam: 5.13 PM\nChandrashtamam: Simham\nTaddinam Tithi: Chaturdashi\nPradesham: Stuttgart (Telugu Style)
 SUMMARY:Ashwayujamu Shukla Paksham Trayodashi  (24.10.2026)
 UID:stuttgart-te-2026-10-24@panchangam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260118
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Pushyamu Krishna Paksham Amavasya 🌑 (18.01.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Hemantha Ruthuvu\nMasam: Pushyamu\nPaksham: Krishna Paksham\nTithi: upto 8.51 PM Amavasya\, thereafter Padyami\nVaram: Bhanuvaram\nNakshatram: upto 8.04 AM Uttarashada (1 Padam)\, and then Shravana\nYogam: Harshana\nKaranam: Chatushpada\nRahu Kalam: 3.52 PM to 4.58 PM\nYamagandam: 12.33 PM to 1.40 PM\nDurmuhurtham: 3.48 PM to 4.23 PM\nAbhijit Muhurtham: 12.16 PM to 12.51 PM\nSuryodayam: 8.08 AM\nSuryastamayam: 4.58 PM\nChandrodayam: 8.24 AM\nChandrashtamam: Vrushabham\nTaddinam Tithi: Amavasya\nPradesham: Stuttgart (Telugu Style)
-SUMMARY:Pushyamu Krishna Paksham Amavasya 🌑 (18.01.2026)
-UID:stuttgart-te-2026-01-18@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260228
