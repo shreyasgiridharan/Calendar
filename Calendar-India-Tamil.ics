@@ -453,6 +453,13 @@ SUMMARY:Aani 22  Sevvai
 UID:india-ta-2026-07-07@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270126
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Thai 12  Sevvai\n\nVarudam: Parabhava Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Krushna Paksham\nThithi: upto 4.33 AM Panchami\, thereafter Shashti\nNaal: Sevvai\nNakshatthiram: upto 12.46 AM Uthiram (1 Paadham)\, and then Hastham\nYogam: Atiganda\nKaranam: Kaulavai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 3.18 PM to 4.43 PM\nYemakandam: 9.38 AM to 11.03 AM\nKuligai: 11.03 AM to 12.28 PM\nNalla Neram (Gowri): 8.14 AM to 9.38 AM and 3.18 PM to 4.43 PM\nSoolam: North\nPariharam: Milk / Paal\nSurya Udhayam: 6.49 AM\nSurya Asthamanam: 6.07 PM\nChandrodayam: 10.06 PM\nChandrashtamam: Makaram\nSradhdha Thithi: Panchami\nIdam: Hyderabad (Tamil Style)
+SUMMARY:Thai 12  Sevvai
+UID:india-ta-2027-01-26@panchangam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260817
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Aavani 01  Thingal\n\nVarudam: Parabhava Varudam\nAyanam: Dakshinayanam\nRuthu: Varsha Ruthu\nMasam: Aavani (Simham)\nPaksham: Shukla Paksham\nThithi: upto 5.00 PM Panchami\, thereafter Shashti\nNaal: Thingal\nNakshatthiram: upto 5.41 AM Chitthirai (1 Paadham)\, and then Swathi\nYogam: Shubha\nKaranam: Balavai\nYogam Vakai: Marana Yogam\nRaghu Kalam: 7.34 AM to 9.09 AM\nYemakandam: 10.44 AM to 12.20 PM\nKuligai: 12.20 PM to 1.55 PM\nNalla Neram (Gowri): 5.59 AM to 7.34 AM and 12.20 PM to 1.55 PM\nSoolam: East\nPariharam: Curd / Thayir\nSurya Udhayam: 5.59 AM\nSurya Asthamanam: 6.40 PM\nChandrodayam: 10.01 AM\nChandrashtamam: Kumbham\nSradhdha Thithi: Panchami\nIdam: Hyderabad (Tamil Style)
@@ -768,13 +775,6 @@ SUMMARY:⏳ Ekadashi (Shukla)
 UID:india-ta-202608230200-Ekadashi(Shukla)@vratam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260126
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Thai 12  Thingal\n\nVarudam: Vishvavasu Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Shukla Paksham\nThithi: upto 9.18 PM Ashtami\, thereafter Navami\nNaal: Thingal\nNakshatthiram: upto 1.10 PM Ashwini (3 Paadham)\, and then Bharani\nYogam: Sadhya\nKaranam: Vishti\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 8.14 AM to 9.38 AM\nYemakandam: 11.03 AM to 12.28 PM\nKuligai: 12.28 PM to 1.53 PM\nNalla Neram (Gowri): 6.49 AM to 8.14 AM and 12.28 PM to 1.53 PM\nSoolam: East\nPariharam: Curd / Thayir\nSurya Udhayam: 6.49 AM\nSurya Asthamanam: 6.08 PM\nChandrodayam: 11.45 AM\nChandrashtamam: Kanni\nSradhdha Thithi: Ashtami\nIdam: Hyderabad (Tamil Style)
-SUMMARY:Thai 12  Thingal
-UID:india-ta-2026-01-26@panchangam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260405
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Panguni 22  Nyayiru\n\n🎉 SPECIAL: Sankatahara Chathurthi\nVarudam: Vishvavasu Varudam\nAyanam: Uttarayanam\nRuthu: Shishira Ruthu\nMasam: Panguni (Meenam)\nPaksham: Krushna Paksham\nThithi: upto 12 Noon Tritiyai\, thereafter Chathurthi\nNaal: Nyayiru\nNakshatthiram: upto 12.52 AM Visakam (2 Paadham)\, and then Anusham\nYogam: Vajra\nKaranam: Vishti\nYogam Vakai: Marana Yogam\nRaghu Kalam: 4.57 PM to 6.30 PM\nYemakandam: 12.18 PM to 1.51 PM\nKuligai: 1.51 PM to 3.24 PM\nNalla Neram (Gowri): 6.07 AM to 7.40 AM and 12.18 PM to 1.51 PM\nSoolam: West\nPariharam: Jaggery / Vellam\nSurya Udhayam: 6.07 AM\nSurya Asthamanam: 6.30 PM\nChandrodayam: 9.24 PM\nChandrashtamam: Meenam\nSradhdha Thithi: Chathurthi\nIdam: Hyderabad (Tamil Style)
@@ -933,6 +933,13 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Aavani 14  Nyayiru\n\nVarudam: Parabhava Varudam\nAyanam: Dakshinayanam\nRuthu: Varsha Ruthu\nMasam: Aavani (Simham)\nPaksham: Krushna Paksham\nThithi: upto 9.37 AM Dwitiyai\, thereafter Tritiyai\nNaal: Nyayiru\nNakshatthiram: upto 4.24 AM Uthirattathi (1 Paadham)\, and then Revathi\nYogam: Dhriti\nKaranam: Garajai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 4.57 PM to 6.31 PM\nYemakandam: 12.16 PM to 1.50 PM\nKuligai: 1.50 PM to 3.24 PM\nNalla Neram (Gowri): 6.01 AM to 7.35 AM and 12.16 PM to 1.50 PM\nSoolam: West\nPariharam: Jaggery / Vellam\nSurya Udhayam: 6.01 AM\nSurya Asthamanam: 6.31 PM\nChandrodayam: 7.54 PM\nChandrashtamam: Simham\nSradhdha Thithi: Tritiyai\nIdam: Hyderabad (Tamil Style)
 SUMMARY:Aavani 14  Nyayiru
 UID:india-ta-2026-08-30@panchangam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270128
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Thai 14  Vyazhan\n\nVarudam: Parabhava Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Krushna Paksham\nThithi: upto 4.03 AM Saptami\, thereafter Ashtami\nNaal: Vyazhan\nNakshatthiram: upto 1.15 AM Chitthirai (2 Paadham)\, and then Swathi\nYogam: Dhriti\nKaranam: Vishti\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 1.53 PM to 3.18 PM\nYemakandam: 6.48 AM to 8.13 AM\nKuligai: 8.13 AM to 9.38 AM\nNalla Neram (Gowri): 6.48 AM to 8.13 AM and 12.28 PM to 1.53 PM\nSoolam: South\nPariharam: Oil / Thailam\nSurya Udhayam: 6.48 AM\nSurya Asthamanam: 6.09 PM\nChandrodayam: 11.54 PM\nChandrashtamam: Kumbham\nSradhdha Thithi: Saptami\nIdam: Hyderabad (Tamil Style)
+SUMMARY:Thai 14  Vyazhan
+UID:india-ta-2027-01-28@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
@@ -1140,6 +1147,13 @@ SUMMARY:Aani 27  Nyayiru
 UID:india-ta-2026-07-12@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270131
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Thai 17  Nyayiru\n\nVarudam: Parabhava Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Krushna Paksham\nThithi: Dashami\nNaal: Nyayiru\nNakshatthiram: Anusham (1 Paadham)\nYogam: Vriddhi\nKaranam: Vanijai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 4.45 PM to 6.10 PM\nYemakandam: 12.29 PM to 1.54 PM\nKuligai: 1.54 PM to 3.20 PM\nNalla Neram (Gowri): 6.48 AM to 8.13 AM and 12.29 PM to 1.54 PM\nSoolam: West\nPariharam: Jaggery / Vellam\nSurya Udhayam: 6.48 AM\nSurya Asthamanam: 6.10 PM\nChandrodayam: 1.42 AM\nChandrashtamam: Mesham\nSradhdha Thithi: Dashami\nIdam: Hyderabad (Tamil Style)
+SUMMARY:Thai 17  Nyayiru
+UID:india-ta-2027-01-31@panchangam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260822
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Aavani 06  Sani\n\nVarudam: Parabhava Varudam\nAyanam: Dakshinayanam\nRuthu: Varsha Ruthu\nMasam: Aavani (Simham)\nPaksham: Shukla Paksham\nThithi: upto 2.00 AM Dashami\, thereafter Ekadashi\nNaal: Sani\nNakshatthiram: upto 3.34 PM Kettai (3 Paadham)\, and then Moolam\nYogam: Vaidhriti\nKaranam: Thaitilai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 9.09 AM to 10.44 AM\nYemakandam: 1.53 PM to 3.28 PM\nKuligai: 3.28 PM to 5.02 PM\nNalla Neram (Gowri): 9.09 AM to 10.44 AM and 1.53 PM to 3.28 PM\nSoolam: East\nPariharam: Curd / Thayir\nSurya Udhayam: 6.00 AM\nSurya Asthamanam: 6.37 PM\nChandrodayam: 2.26 PM\nChandrashtamam: Mesham\nSradhdha Thithi: Dashami\nIdam: Hyderabad (Tamil Style)
@@ -1247,13 +1261,6 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Karthigai 17  Vyazhan\n\nVarudam: Parabhava Varudam\nAyanam: Dakshinayanam\nRuthu: Sarath Ruthu\nMasam: Karthigai (Virutchigam)\nPaksham: Krushna Paksham\nThithi: upto 11.03 PM Dashami\, thereafter Ekadashi\nNaal: Vyazhan\nNakshatthiram: upto 10.05 AM Uthiram (4 Paadham)\, and then Hastham\nYogam: Priti\nKaranam: Vanijai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 1.29 PM to 2.53 PM\nYemakandam: 6.31 AM to 7.54 AM\nKuligai: 7.54 AM to 9.18 AM\nNalla Neram (Gowri): 6.31 AM to 7.54 AM and 12.05 PM to 1.29 PM\nSoolam: South\nPariharam: Oil / Thailam\nSurya Udhayam: 6.31 AM\nSurya Asthamanam: 5.40 PM\nChandrodayam: 1.29 AM\nChandrashtamam: Kumbham\nSradhdha Thithi: Dashami\nIdam: Hyderabad (Tamil Style)
 SUMMARY:Karthigai 17  Vyazhan
 UID:india-ta-2026-12-03@panchangam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260128
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Thai 14  Budhan\n\nVarudam: Vishvavasu Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Shukla Paksham\nThithi: upto 4.36 PM Dashami\, thereafter Ekadashi\nNaal: Budhan\nNakshatthiram: upto 10.03 AM Karthigai (4 Paadham)\, and then Rohini\nYogam: Brahma\nKaranam: Garajai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 12.29 PM to 1.54 PM\nYemakandam: 8.13 AM to 9.38 AM\nKuligai: 9.38 AM to 11.03 AM\nNalla Neram (Gowri): 6.48 AM to 8.13 AM and 1.54 PM to 3.19 PM\nSoolam: North\nPariharam: Milk / Paal\nSurya Udhayam: 6.48 AM\nSurya Asthamanam: 6.09 PM\nChandrodayam: 1.26 PM\nChandrashtamam: Thulam\nSradhdha Thithi: Dashami\nIdam: Hyderabad (Tamil Style)
-SUMMARY:Thai 14  Budhan
-UID:india-ta-2026-01-28@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260407
@@ -1513,31 +1520,11 @@ SUMMARY:Aadi 06  Budhan
 UID:india-ta-2026-07-22@panchangam
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-P1D
-END:VALARM
-CATEGORIES:VRATAM
-DESCRIPTION:Astronomical duration of Ekadashi (Shukla).
-DTEND:20260129T082538Z
-DTSTART:20260128T110632Z
-SUMMARY:⏳ Ekadashi (Shukla)
-UID:india-ta-202601281636-Ekadashi(Shukla)@vratam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261026
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Aippasi 09 🌕 Thingal\n\nVarudam: Parabhava Varudam\nAyanam: Dakshinayanam\nRuthu: Sarath Ruthu\nMasam: Aippasi (Thulam)\nPaksham: Shukla Paksham\nThithi: upto 9.41 AM Pournami\, thereafter Prathamai\nNaal: Thingal\nNakshatthiram: upto 6.18 PM Ashwini (2 Paadham)\, and then Bharani\nYogam: Vajra\nKaranam: Bavai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 7.39 AM to 9.06 AM\nYemakandam: 10.33 AM to 11.59 AM\nKuligai: 11.59 AM to 1.26 PM\nNalla Neram (Gowri): 6.12 AM to 7.39 AM and 4.20 PM to 5.47 PM\nSoolam: East\nPariharam: Curd / Thayir\nSurya Udhayam: 6.12 AM\nSurya Asthamanam: 5.47 PM\nChandrodayam: 5.48 PM\nChandrashtamam: Kanni\nSradhdha Thithi: Prathamai\nIdam: Hyderabad (Tamil Style)
 SUMMARY:Aippasi 09 🌕 Thingal
 UID:india-ta-2026-10-26@panchangam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260131
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Thai 17  Sani\n\nVarudam: Vishvavasu Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Shukla Paksham\nThithi: upto 8.26 AM Trayodashi\, upto 5.53 AM Chadhurdasi\, thereafter Pournami\nNaal: Sani\nNakshatthiram: upto 2.10 AM Punarpoosam (1 Paadham)\, and then Poosam\nYogam: Vishkambha\nKaranam: Thaitilai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 9.38 AM to 11.04 AM\nYemakandam: 1.54 PM to 3.20 PM\nKuligai: 3.20 PM to 4.45 PM\nNalla Neram (Gowri): 9.38 AM to 11.04 AM and 1.54 PM to 3.20 PM\nSoolam: East\nPariharam: Curd / Thayir\nSurya Udhayam: 6.48 AM\nSurya Asthamanam: 6.10 PM\nChandrodayam: 4.39 PM\nChandrashtamam: Virutchigam\nSradhdha Thithi: Chadhurdasi\nIdam: Hyderabad (Tamil Style)
-SUMMARY:Thai 17  Sani
-UID:india-ta-2026-01-31@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
@@ -2294,13 +2281,6 @@ SUMMARY:⏳ Sashti (Shukla)
 UID:india-ta-202612141916-Sashti(Shukla)@vratam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260125
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Thai 11  Nyayiru\n\nVarudam: Vishvavasu Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Shukla Paksham\nThithi: upto 11.10 PM Saptami\, thereafter Ashtami\nNaal: Nyayiru\nNakshatthiram: upto 2.13 PM Revathi (3 Paadham)\, and then Ashwini\nYogam: Siddha\nKaranam: Garajai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 4.42 PM to 6.07 PM\nYemakandam: 12.28 PM to 1.53 PM\nKuligai: 1.53 PM to 3.17 PM\nNalla Neram (Gowri): 6.49 AM to 8.14 AM and 12.28 PM to 1.53 PM\nSoolam: West\nPariharam: Jaggery / Vellam\nSurya Udhayam: 6.49 AM\nSurya Asthamanam: 6.07 PM\nChandrodayam: 11.02 AM\nChandrashtamam: Simham\nSradhdha Thithi: Saptami\nIdam: Hyderabad (Tamil Style)
-SUMMARY:Thai 11  Nyayiru
-UID:india-ta-2026-01-25@panchangam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Panguni 21  Sani\n\nVarudam: Vishvavasu Varudam\nAyanam: Uttarayanam\nRuthu: Shishira Ruthu\nMasam: Panguni (Meenam)\nPaksham: Krushna Paksham\nThithi: upto 10.09 AM Dwitiyai\, thereafter Tritiyai\nNaal: Sani\nNakshatthiram: upto 10.19 PM Swathi (2 Paadham)\, and then Visakam\nYogam: Harshana\nKaranam: Garajai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 9.13 AM to 10.46 AM\nYemakandam: 1.51 PM to 3.24 PM\nKuligai: 3.24 PM to 4.57 PM\nNalla Neram (Gowri): 9.13 AM to 10.46 AM and 1.51 PM to 3.24 PM\nSoolam: East\nPariharam: Curd / Thayir\nSurya Udhayam: 6.08 AM\nSurya Asthamanam: 6.29 PM\nChandrodayam: 8.31 PM\nChandrashtamam: Meenam\nSradhdha Thithi: Tritiyai\nIdam: Hyderabad (Tamil Style)
@@ -2390,19 +2370,6 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Purattasi 05  Thingal\n\nVarudam: Parabhava Varudam\nAyanam: Dakshinayanam\nRuthu: Varsha Ruthu\nMasam: Purattasi (Kanni)\nPaksham: Shukla Paksham\nThithi: upto 8.01 PM Dashami\, thereafter Ekadashi\nNaal: Thingal\nNakshatthiram: Uthiradam (1 Paadham)\nYogam: Shobhana\nKaranam: Thaitilai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 7.35 AM to 9.06 AM\nYemakandam: 10.38 AM to 12.09 PM\nKuligai: 12.09 PM to 1.40 PM\nNalla Neram (Gowri): 6.04 AM to 7.35 AM and 12.09 PM to 1.40 PM\nSoolam: East\nPariharam: Curd / Thayir\nSurya Udhayam: 6.04 AM\nSurya Asthamanam: 6.13 PM\nChandrodayam: 2.42 PM\nChandrashtamam: Rishabam\nSradhdha Thithi: Dashami\nIdam: Hyderabad (Tamil Style)
 SUMMARY:Purattasi 05  Thingal
 UID:india-ta-2026-09-21@panchangam
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-P1D
-END:VALARM
-CATEGORIES:VRATAM
-DESCRIPTION:Astronomical duration of Pradosham (Shukla).
-DTEND:20260131T025602Z
-DTSTART:20260130T053938Z
-SUMMARY:⏳ Pradosham (Shukla)
-UID:india-ta-202601301109-Pradosham(Shukla)@vratam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270109
@@ -2518,6 +2485,13 @@ DTEND:20260611T170643Z
 DTSTART:20260610T192816Z
 SUMMARY:⏳ Ekadashi (Krishna)
 UID:india-ta-202606110058-Ekadashi(Krishna)@vratam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270127
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Thai 13  Budhan\n\nVarudam: Parabhava Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Krushna Paksham\nThithi: upto 3.54 AM Shashti\, thereafter Saptami\nNaal: Budhan\nNakshatthiram: upto 12.37 AM Hastham (2 Paadham)\, and then Chitthirai\nYogam: Sukarman\nKaranam: Garajai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 12.28 PM to 1.53 PM\nYemakandam: 8.13 AM to 9.38 AM\nKuligai: 9.38 AM to 11.03 AM\nNalla Neram (Gowri): 6.49 AM to 8.13 AM and 1.53 PM to 3.18 PM\nSoolam: North\nPariharam: Milk / Paal\nSurya Udhayam: 6.49 AM\nSurya Asthamanam: 6.08 PM\nChandrodayam: 11.00 PM\nChandrashtamam: Kumbham\nSradhdha Thithi: Shashti\nIdam: Hyderabad (Tamil Style)
+SUMMARY:Thai 13  Budhan
+UID:india-ta-2027-01-27@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260708
@@ -2724,6 +2698,13 @@ SUMMARY:Vaikasi 18  Thingal
 UID:india-ta-2026-06-01@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270130
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Thai 16  Sani\n\nVarudam: Parabhava Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Krushna Paksham\nThithi: upto 6.34 AM Navami\, thereafter Dashami\nNaal: Sani\nNakshatthiram: upto 4.40 AM Visakam (1 Paadham)\, and then Anusham\nYogam: Ganda\nKaranam: Thaitilai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 9.38 AM to 11.04 AM\nYemakandam: 1.54 PM to 3.19 PM\nKuligai: 3.19 PM to 4.44 PM\nNalla Neram (Gowri): 9.38 AM to 11.04 AM and 1.54 PM to 3.19 PM\nSoolam: East\nPariharam: Curd / Thayir\nSurya Udhayam: 6.48 AM\nSurya Asthamanam: 6.10 PM\nChandrodayam: 12.48 AM\nChandrashtamam: Meenam\nSradhdha Thithi: Navami\nIdam: Hyderabad (Tamil Style)
+SUMMARY:Thai 16  Sani
+UID:india-ta-2027-01-30@panchangam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Aani 26  Sani\n\nVarudam: Parabhava Varudam\nAyanam: Dakshinayanam\nRuthu: Grishma Ruthu\nMasam: Aani (Mithunam)\nPaksham: Krushna Paksham\nThithi: upto 2.04 AM Dwadashi\, thereafter Trayodashi\nNaal: Sani\nNakshatthiram: upto 11.39 AM Karthigai (3 Paadham)\, and then Rohini\nYogam: Ganda\nKaranam: Kaulavai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 9.04 AM to 10.43 AM\nYemakandam: 1.59 PM to 3.38 PM\nKuligai: 3.38 PM to 5.16 PM\nNalla Neram (Gowri): 9.04 AM to 10.43 AM and 1.59 PM to 3.38 PM\nSoolam: East\nPariharam: Curd / Thayir\nSurya Udhayam: 5.48 AM\nSurya Asthamanam: 6.54 PM\nChandrodayam: 2.10 AM\nChandrashtamam: Thulam\nSradhdha Thithi: Dwadashi\nIdam: Hyderabad (Tamil Style)
@@ -2812,13 +2793,6 @@ DTEND:20261006T190502Z
 DTSTART:20261005T203802Z
 SUMMARY:⏳ Ekadashi (Krishna)
 UID:india-ta-202610060208-Ekadashi(Krishna)@vratam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260127
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Thai 13  Sevvai\n\nVarudam: Vishvavasu Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Shukla Paksham\nThithi: upto 7.05 PM Navami\, thereafter Dashami\nNaal: Sevvai\nNakshatthiram: upto 11.45 AM Bharani (4 Paadham)\, and then Karthigai\nYogam: Shubha\nKaranam: Balavai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 3.18 PM to 4.43 PM\nYemakandam: 9.38 AM to 11.03 AM\nKuligai: 11.03 AM to 12.28 PM\nNalla Neram (Gowri): 8.13 AM to 9.38 AM and 3.18 PM to 4.43 PM\nSoolam: North\nPariharam: Milk / Paal\nSurya Udhayam: 6.49 AM\nSurya Asthamanam: 6.08 PM\nChandrodayam: 12.32 PM\nChandrashtamam: Kanni\nSradhdha Thithi: Navami\nIdam: Hyderabad (Tamil Style)
-SUMMARY:Thai 13  Sevvai
-UID:india-ta-2026-01-27@panchangam
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -3046,6 +3020,13 @@ SUMMARY:Aavani 15  Thingal
 UID:india-ta-2026-08-31@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270129
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Thai 15  Velli\n\nVarudam: Parabhava Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Krushna Paksham\nThithi: upto 4.58 AM Ashtami\, thereafter Navami\nNaal: Velli\nNakshatthiram: upto 2.38 AM Swathi (1 Paadham)\, and then Visakam\nYogam: Shoola\nKaranam: Balavai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 11.04 AM to 12.29 PM\nYemakandam: 3.19 PM to 4.44 PM\nKuligai: 6.48 AM to 8.13 AM\nNalla Neram (Gowri): 6.48 AM to 8.13 AM and 12.29 PM to 1.54 PM\nSoolam: West\nPariharam: Jaggery / Vellam\nSurya Udhayam: 6.48 AM\nSurya Asthamanam: 6.09 PM\nChandrodayam: N/A\nChandrashtamam: Meenam\nSradhdha Thithi: Ashtami\nIdam: Hyderabad (Tamil Style)
+SUMMARY:Thai 15  Velli
+UID:india-ta-2027-01-29@panchangam
+END:VEVENT
+BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:
@@ -3064,13 +3045,6 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Aippasi 08  Nyayiru\n\nVarudam: Parabhava Varudam\nAyanam: Dakshinayanam\nRuthu: Sarath Ruthu\nMasam: Aippasi (Thulam)\nPaksham: Shukla Paksham\nThithi: upto 11.56 AM Chadhurdasi\, thereafter Pournami\nNaal: Nyayiru\nNakshatthiram: upto 8.00 PM Revathi (2 Paadham)\, and then Ashwini\nYogam: Harshana\nKaranam: Vanijai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 4.21 PM to 5.48 PM\nYemakandam: 12 Noon to 1.27 PM\nKuligai: 1.27 PM to 2.54 PM\nNalla Neram (Gowri): 6.11 AM to 7.38 AM and 12 Noon to 1.27 PM\nSoolam: West\nPariharam: Jaggery / Vellam\nSurya Udhayam: 6.11 AM\nSurya Asthamanam: 5.48 PM\nChandrodayam: 5.04 PM\nChandrashtamam: Simham\nSradhdha Thithi: Pournami\nIdam: Hyderabad (Tamil Style)
 SUMMARY:Aippasi 08  Nyayiru
 UID:india-ta-2026-10-25@panchangam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260130
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Thai 16  Velli\n\n🎉 SPECIAL: Pradosham (Shukla)\nVarudam: Vishvavasu Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Shukla Paksham\nThithi: upto 11.09 AM Dwadashi\, thereafter Trayodashi\nNaal: Velli\nNakshatthiram: upto 4.03 AM Thiruvathirai (1 Paadham)\, and then Punarpoosam\nYogam: Vaidhriti\nKaranam: Balavai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 11.04 AM to 12.29 PM\nYemakandam: 3.19 PM to 4.45 PM\nKuligai: 6.48 AM to 8.13 AM\nNalla Neram (Gowri): 6.48 AM to 8.13 AM and 12.29 PM to 1.54 PM\nSoolam: West\nPariharam: Jaggery / Vellam\nSurya Udhayam: 6.48 AM\nSurya Asthamanam: 6.10 PM\nChandrodayam: 3.32 PM\nChandrashtamam: Virutchigam\nSradhdha Thithi: Trayodashi\nIdam: Hyderabad (Tamil Style)
-SUMMARY:Thai 16  Velli
-UID:india-ta-2026-01-30@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
@@ -3358,13 +3332,6 @@ SUMMARY:🎉 Panguni Uthiram
 UID:india-ta-2026-04-01-PanguniUthiram@festival
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260129
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Thai 15  Vyazhan\n\n🎉 SPECIAL: Ekadashi (Shukla)\nVarudam: Vishvavasu Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Shukla Paksham\nThithi: upto 1.55 PM Ekadashi\, thereafter Dwadashi\nNaal: Vyazhan\nNakshatthiram: upto 8.07 AM Rohini (4 Paadham)\, upto 6.05 AM Mrigashirsham\, and then Thiruvathirai\nYogam: Indra\nKaranam: Vishti\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 1.54 PM to 3.19 PM\nYemakandam: 6.48 AM to 8.13 AM\nKuligai: 8.13 AM to 9.38 AM\nNalla Neram (Gowri): 6.48 AM to 8.13 AM and 12.29 PM to 1.54 PM\nSoolam: South\nPariharam: Oil / Thailam\nSurya Udhayam: 6.48 AM\nSurya Asthamanam: 6.09 PM\nChandrodayam: 2.27 PM\nChandrashtamam: Thulam\nSradhdha Thithi: Dwadashi\nIdam: Hyderabad (Tamil Style)
-SUMMARY:Thai 15  Vyazhan
-UID:india-ta-2026-01-29@panchangam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260408
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Panguni 25  Budhan\n\nVarudam: Vishvavasu Varudam\nAyanam: Uttarayanam\nRuthu: Shishira Ruthu\nMasam: Panguni (Meenam)\nPaksham: Krushna Paksham\nThithi: upto 7.02 PM Shashti\, thereafter Saptami\nNaal: Budhan\nNakshatthiram: upto 6.38 AM Kettai (4 Paadham)\, and then Moolam\nYogam: Variyana\nKaranam: Vanijai\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 12.18 PM to 1.51 PM\nYemakandam: 7.38 AM to 9.11 AM\nKuligai: 9.11 AM to 10.44 AM\nNalla Neram (Gowri): 6.05 AM to 7.38 AM and 1.51 PM to 3.24 PM\nSoolam: North\nPariharam: Milk / Paal\nSurya Udhayam: 6.05 AM\nSurya Asthamanam: 6.30 PM\nChandrodayam: N/A\nChandrashtamam: Mesham\nSradhdha Thithi: Shashti\nIdam: Hyderabad (Tamil Style)
@@ -3570,5 +3537,12 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Aadi 07  Vyazhan\n\nVarudam: Parabhava Varudam\nAyanam: Dakshinayanam\nRuthu: Grishma Ruthu\nMasam: Aadi (Katakam)\nPaksham: Shukla Paksham\nThithi: upto 7.03 AM Navami\, thereafter Dashami\nNaal: Vyazhan\nNakshatthiram: upto 2.27 AM Visakam (1 Paadham)\, and then Anusham\nYogam: Shubha\nKaranam: Kaulavai\nYogam Vakai: Marana Yogam\nRaghu Kalam: 1.59 PM to 3.37 PM\nYemakandam: 5.52 AM to 7.30 AM\nKuligai: 7.30 AM to 9.07 AM\nNalla Neram (Gowri): 5.52 AM to 7.30 AM and 12.22 PM to 1.59 PM\nSoolam: South\nPariharam: Oil / Thailam\nSurya Udhayam: 5.52 AM\nSurya Asthamanam: 6.52 PM\nChandrodayam: 1.55 PM\nChandrashtamam: Meenam\nSradhdha Thithi: Dashami\nIdam: Hyderabad (Tamil Style)
 SUMMARY:Aadi 07  Vyazhan
 UID:india-ta-2026-07-23@panchangam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270201
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Thai 18  Thingal\n\nVarudam: Parabhava Varudam\nAyanam: Uttarayanam\nRuthu: Hemantha Ruthu\nMasam: Thai (Makaram)\nPaksham: Krushna Paksham\nThithi: upto 8.41 AM Dashami\, thereafter Ekadashi\nNaal: Thingal\nNakshatthiram: upto 7.13 AM Anusham (4 Paadham)\, and then Kettai\nYogam: Dhruva\nKaranam: Vishti\nYogam Vakai: Siddha Yogam\nRaghu Kalam: 8.13 AM to 9.38 AM\nYemakandam: 11.04 AM to 12.29 PM\nKuligai: 12.29 PM to 1.55 PM\nNalla Neram (Gowri): 6.48 AM to 8.13 AM and 12.29 PM to 1.55 PM\nSoolam: East\nPariharam: Curd / Thayir\nSurya Udhayam: 6.48 AM\nSurya Asthamanam: 6.11 PM\nChandrodayam: 2.36 AM\nChandrashtamam: Mesham\nSradhdha Thithi: Ekadashi\nIdam: Hyderabad (Tamil Style)
+SUMMARY:Thai 18  Thingal
+UID:india-ta-2027-02-01@panchangam
 END:VEVENT
 END:VCALENDAR
