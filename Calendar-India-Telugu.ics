@@ -159,13 +159,6 @@ SUMMARY:Margashiramu Krishna Paksham Ashtami  (31.12.2026)
 UID:india-te-2026-12-31@panchangam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Maghamu Krishna Paksham Trayodashi  (15.02.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Krishna Paksham\nTithi: upto 5.05 PM Trayodashi\, thereafter Chaturdashi\nVaram: Bhanuvaram\nNakshatram: upto 8.29 PM Uttarashada (2 Padam)\, and then Shravana\nYogam: Vyatipata\nKaranam: Vanijai\nRahu Kalam: 4.50 PM to 6.17 PM\nYamagandam: 12.30 PM to 1.57 PM\nDurmuhurtham: 4.45 PM to 5.31 PM\nAbhijit Muhurtham: 12.07 PM to 12.53 PM\nSuryodayam: 6.42 AM\nSuryastamayam: 6.17 PM\nChandrodayam: 5.07 AM\nChandrashtamam: Mithunam\nTaddinam Tithi: Trayodashi\nPradesham: Hyderabad (Telugu Style)
-SUMMARY:Maghamu Krishna Paksham Trayodashi  (15.02.2026)
-UID:india-te-2026-02-15@panchangam
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:
@@ -362,6 +355,13 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Margashiramu Krishna Paksham Amavasya 🌑 (07.01.2027)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Hemantha Ruthuvu\nMasam: Margashiramu\nPaksham: Krishna Paksham\nTithi: upto 1.54 AM Amavasya\, thereafter Padyami\nVaram: Guruvaram\nNakshatram: upto 6.54 AM Moola (4 Padam)\, and then Poorvashada\nYogam: Dhruva\nKaranam: Chatushpada\nRahu Kalam: 1.45 PM to 3.09 PM\nYamagandam: 6.47 AM to 8.11 AM\nDurmuhurtham: 1.29 PM to 2.13 PM\nAbhijit Muhurtham: 11.59 AM to 12.44 PM\nSuryodayam: 6.47 AM\nSuryastamayam: 5.56 PM\nChandrodayam: 6.22 AM\nChandrashtamam: Vrushabham\nTaddinam Tithi: Amavasya\nPradesham: Hyderabad (Telugu Style)
 SUMMARY:Margashiramu Krishna Paksham Amavasya 🌑 (07.01.2027)
 UID:india-te-2027-01-07@panchangam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Maghamu Shukla Paksham Ekadashi  (17.02.2027)\n\n🎉 SPECIAL: Ekadashi (Shukla)\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Shukla Paksham\nTithi: upto 5.32 PM Ekadashi\, thereafter Dwadashi\nVaram: Budhavaram\nNakshatram: upto 12.06 AM Arudra (1 Padam)\, and then Punarvasu\nYogam: Vishkambha\nKaranam: Vanijai\nRahu Kalam: 12.30 PM to 1.57 PM\nYamagandam: 8.08 AM to 9.36 AM\nDurmuhurtham: 10.34 AM to 11.20 AM\nAbhijit Muhurtham: 12.06 PM to 12.53 PM\nSuryodayam: 6.41 AM\nSuryastamayam: 6.18 PM\nChandrodayam: 2.32 PM\nChandrashtamam: Vrushchikam\nTaddinam Tithi: Ekadashi\nPradesham: Hyderabad (Telugu Style)
+SUMMARY:Maghamu Shukla Paksham Ekadashi  (17.02.2027)
+UID:india-te-2027-02-17@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260908
@@ -562,6 +562,13 @@ SUMMARY:Pushyamu Shukla Paksham Vidiya  (10.01.2027)
 UID:india-te-2027-01-10@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270220
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Maghamu Shukla Paksham Chaturdashi  (20.02.2027)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Shukla Paksham\nTithi: upto 8.00 AM Chaturdashi\, upto 4.53 AM Pournami\, thereafter Padyami\nVaram: Shanivaram\nNakshatram: upto 4.44 PM Ashlesha (3 Padam)\, and then Makha\nYogam: Shobhana\nKaranam: Vanijai\nRahu Kalam: 9.35 AM to 11.02 AM\nYamagandam: 1.57 PM to 3.24 PM\nDurmuhurtham: 6.40 AM to 7.26 AM\nAbhijit Muhurtham: 12.06 PM to 12.53 PM\nSuryodayam: 6.40 AM\nSuryastamayam: 6.19 PM\nChandrodayam: 5.50 PM\nChandrashtamam: Dhanu\nTaddinam Tithi: Pournami\nPradesham: Hyderabad (Telugu Style)
+SUMMARY:Maghamu Shukla Paksham Chaturdashi  (20.02.2027)
+UID:india-te-2027-02-20@panchangam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260801
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Ashadhamu Krishna Paksham Thadiya  (01.08.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Grishma Ruthuvu\nMasam: Ashadhamu\nPaksham: Krishna Paksham\nTithi: upto 11.07 PM Thadiya\, thereafter Chavithi\nVaram: Shanivaram\nNakshatram: upto 9.27 PM Shatabhisham (2 Padam)\, and then Poorvabhadra\nYogam: Shobhana\nKaranam: Vanijai\nRahu Kalam: 9.08 AM to 10.45 AM\nYamagandam: 1.59 PM to 3.35 PM\nDurmuhurtham: 5.55 AM to 6.46 AM\nAbhijit Muhurtham: 11.56 AM to 12.48 PM\nSuryodayam: 5.55 AM\nSuryastamayam: 6.49 PM\nChandrodayam: 8.42 PM\nChandrashtamam: Karkatakam\nTaddinam Tithi: Thadiya\nPradesham: Hyderabad (Telugu Style)
@@ -691,13 +698,6 @@ DTEND:20260818T122106Z
 DTSTART:20260817T113033Z
 SUMMARY:⏳ Sashti (Shukla)
 UID:india-te-202608171700-Sashti(Shukla)@vratam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260217
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Maghamu Krishna Paksham Amavasya 🌑 (17.02.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Krishna Paksham\nTithi: upto 5.31 PM Amavasya\, thereafter Padyami\nVaram: Mangalavaram\nNakshatram: upto 9.56 PM Dhanishta (2 Padam)\, and then Shatabhisham\nYogam: Parigha\nKaranam: Nagava\nRahu Kalam: 3.24 PM to 4.51 PM\nYamagandam: 9.35 AM to 11.03 AM\nDurmuhurtham: 8.14 AM to 9.01 AM\, 11.20 AM to 12.06 PM\nAbhijit Muhurtham: 12.06 PM to 12.53 PM\nSuryodayam: 6.41 AM\nSuryastamayam: 6.18 PM\nChandrodayam: 6.31 AM\nChandrashtamam: Mithunam\nTaddinam Tithi: Amavasya\nPradesham: Hyderabad (Telugu Style)
-SUMMARY:Maghamu Krishna Paksham Amavasya 🌑 (17.02.2026)
-UID:india-te-2026-02-17@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
@@ -884,6 +884,13 @@ SUMMARY:Pushyamu Shukla Paksham Vidiya  (09.01.2027)
 UID:india-te-2027-01-09@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270219
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Maghamu Shukla Paksham Trayodashi  (19.02.2027)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Shukla Paksham\nTithi: upto 11.14 AM Trayodashi\, thereafter Chaturdashi\nVaram: Shukravaram\nNakshatram: upto 7.12 PM Pushyami (2 Padam)\, and then Ashlesha\nYogam: Saubhagya\nKaranam: Thaitilai\nRahu Kalam: 11.02 AM to 12.29 PM\nYamagandam: 3.24 PM to 4.51 PM\nDurmuhurtham: 9.00 AM to 9.47 AM\, 12.53 PM to 1.39 PM\nAbhijit Muhurtham: 12.06 PM to 12.53 PM\nSuryodayam: 6.40 AM\nSuryastamayam: 6.19 PM\nChandrodayam: 4.46 PM\nChandrashtamam: Dhanu\nTaddinam Tithi: Chaturdashi\nPradesham: Hyderabad (Telugu Style)
+SUMMARY:Maghamu Shukla Paksham Trayodashi  (19.02.2027)
+UID:india-te-2027-02-19@panchangam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261005
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Bhadrapadamu Krishna Paksham Dashami  (05.10.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Varsha Ruthuvu\nMasam: Bhadrapadamu\nPaksham: Krishna Paksham\nTithi: upto 2.08 AM Dashami\, thereafter Ekadashi\nVaram: Somavaram\nNakshatram: upto 11.48 PM Pushyami (1 Padam)\, and then Ashlesha\nYogam: Shiva\nKaranam: Vanijai\nRahu Kalam: 7.36 AM to 9.05 AM\nYamagandam: 10.35 AM to 12.04 PM\nDurmuhurtham: 12.28 PM to 1.15 PM\nAbhijit Muhurtham: 11.40 AM to 12.28 PM\nSuryodayam: 6.06 AM\nSuryastamayam: 6.01 PM\nChandrodayam: 12.55 AM\nChandrashtamam: Dhanu\nTaddinam Tithi: Dashami\nPradesham: Hyderabad (Telugu Style)
@@ -903,13 +910,6 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Margashiramu Krishna Paksham Vidiya  (25.12.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Hemantha Ruthuvu\nMasam: Margashiramu\nPaksham: Krishna Paksham\nTithi: upto 11.26 PM Vidiya\, thereafter Thadiya\nVaram: Shukravaram\nNakshatram: upto 11.26 PM Punarvasu (1 Padam)\, and then Pushyami\nYogam: Brahma\nKaranam: Thaitilai\nRahu Kalam: 10.52 AM to 12.15 PM\nYamagandam: 3.02 PM to 4.25 PM\nDurmuhurtham: 8.56 AM to 9.40 AM\, 12.38 PM to 1.22 PM\nAbhijit Muhurtham: 11.53 AM to 12.38 PM\nSuryodayam: 6.43 AM\nSuryastamayam: 5.48 PM\nChandrodayam: 7.21 PM\nChandrashtamam: Vrushchikam\nTaddinam Tithi: Vidiya\nPradesham: Hyderabad (Telugu Style)
 SUMMARY:Margashiramu Krishna Paksham Vidiya  (25.12.2026)
 UID:india-te-2026-12-25@panchangam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Phalgunamu Shukla Paksham Thadiya  (20.02.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Phalgunamu\nPaksham: Shukla Paksham\nTithi: upto 2.38 PM Thadiya\, thereafter Chavithi\nVaram: Shukravaram\nNakshatram: upto 8.45 PM Uttarabhadra (2 Padam)\, and then Revathi\nYogam: Sadhya\nKaranam: Garajai\nRahu Kalam: 11.02 AM to 12.29 PM\nYamagandam: 3.24 PM to 4.52 PM\nDurmuhurtham: 9.00 AM to 9.46 AM\, 12.53 PM to 1.39 PM\nAbhijit Muhurtham: 12.06 PM to 12.53 PM\nSuryodayam: 6.40 AM\nSuryastamayam: 6.19 PM\nChandrodayam: 8.24 AM\nChandrashtamam: Simham\nTaddinam Tithi: Chavithi\nPradesham: Hyderabad (Telugu Style)
-SUMMARY:Phalgunamu Shukla Paksham Thadiya  (20.02.2026)
-UID:india-te-2026-02-20@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260330
@@ -1142,6 +1142,13 @@ SUMMARY:Pushyamu Shukla Paksham Chavithi  (12.01.2027)
 UID:india-te-2027-01-12@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Maghamu Krishna Paksham Vidiya  (22.02.2027)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Krishna Paksham\nTithi: upto 11.39 PM Vidiya\, thereafter Thadiya\nVaram: Somavaram\nNakshatram: upto 12.33 PM Pubba (3 Padam)\, and then Uttara\nYogam: Sukarman\nKaranam: Thaitilai\nRahu Kalam: 8.06 AM to 9.34 AM\nYamagandam: 11.02 AM to 12.29 PM\nDurmuhurtham: 12.53 PM to 1.39 PM\nAbhijit Muhurtham: 12.06 PM to 12.53 PM\nSuryodayam: 6.39 AM\nSuryastamayam: 6.20 PM\nChandrodayam: 7.49 PM\nChandrashtamam: Makaram\nTaddinam Tithi: Vidiya\nPradesham: Hyderabad (Telugu Style)
+SUMMARY:Maghamu Krishna Paksham Vidiya  (22.02.2027)
+UID:india-te-2027-02-22@panchangam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Ashadhamu Krishna Paksham Panchami  (03.08.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Grishma Ruthuvu\nMasam: Ashadhamu\nPaksham: Krishna Paksham\nTithi: upto 10.54 PM Panchami\, thereafter Shashti\nVaram: Somavaram\nNakshatram: upto 10.40 PM Uttarabhadra (2 Padam)\, and then Revathi\nYogam: Sukarman\nKaranam: Kaulavai\nRahu Kalam: 7.32 AM to 9.09 AM\nYamagandam: 10.45 AM to 12.22 PM\nDurmuhurtham: 12.47 PM to 1.39 PM\nAbhijit Muhurtham: 11.56 AM to 12.47 PM\nSuryodayam: 5.55 AM\nSuryastamayam: 6.48 PM\nChandrodayam: 9.53 PM\nChandrashtamam: Simham\nTaddinam Tithi: Panchami\nPradesham: Hyderabad (Telugu Style)
@@ -1237,13 +1244,6 @@ DTEND:20261227T114342Z
 DTSTART:20261226T143530Z
 SUMMARY:⏳ Sankatahara Chathurthi
 UID:india-te-202612262005-SankataharaChathurthi@vratam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Phalgunamu Shukla Paksham Vidiya  (19.02.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Phalgunamu\nPaksham: Shukla Paksham\nTithi: upto 3.59 PM Vidiya\, thereafter Thadiya\nVaram: Guruvaram\nNakshatram: upto 9.30 PM Poorvabhadra (2 Padam)\, and then Uttarabhadra\nYogam: Siddha\nKaranam: Kaulavai\nRahu Kalam: 1.57 PM to 3.24 PM\nYamagandam: 6.40 AM to 8.08 AM\nDurmuhurtham: 1.39 PM to 2.26 PM\nAbhijit Muhurtham: 12.06 PM to 12.53 PM\nSuryodayam: 6.40 AM\nSuryastamayam: 6.19 PM\nChandrodayam: 7.47 AM\nChandrashtamam: Karkatakam\nTaddinam Tithi: Vidiya\nPradesham: Hyderabad (Telugu Style)
-SUMMARY:Phalgunamu Shukla Paksham Vidiya  (19.02.2026)
-UID:india-te-2026-02-19@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
@@ -1886,6 +1886,13 @@ SUMMARY:Margashiramu Krishna Paksham Chaturdashi  (06.01.2027)
 UID:india-te-2027-01-06@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Maghamu Shukla Paksham Dashami  (16.02.2027)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Shukla Paksham\nTithi: upto 8.19 PM Dashami\, thereafter Ekadashi\nVaram: Mangalavaram\nNakshatram: upto 2.15 AM Mrigashira (1 Padam)\, and then Arudra\nYogam: Vaidhriti\nKaranam: Thaitilai\nRahu Kalam: 3.24 PM to 4.51 PM\nYamagandam: 9.36 AM to 11.03 AM\nDurmuhurtham: 8.15 AM to 9.01 AM\, 11.20 AM to 12.07 PM\nAbhijit Muhurtham: 12.07 PM to 12.53 PM\nSuryodayam: 6.42 AM\nSuryastamayam: 6.18 PM\nChandrodayam: 1.26 PM\nChandrashtamam: Thula\nTaddinam Tithi: Dashami\nPradesham: Hyderabad (Telugu Style)
+SUMMARY:Maghamu Shukla Paksham Dashami  (16.02.2027)
+UID:india-te-2027-02-16@panchangam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260907
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Sravanamu Krishna Paksham Ekadashi  (07.09.2026)\n\n🎉 SPECIAL: Ekadashi (Krishna)\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Varsha Ruthuvu\nMasam: Sravanamu\nPaksham: Krishna Paksham\nTithi: upto 5.04 PM Ekadashi\, thereafter Dwadashi\nVaram: Somavaram\nNakshatram: upto 6.51 PM Punarvasu (2 Padam)\, and then Pushyami\nYogam: Vyatipata\nKaranam: Bavai\nRahu Kalam: 7.35 AM to 9.08 AM\nYamagandam: 10.41 AM to 12.14 PM\nDurmuhurtham: 12.38 PM to 1.28 PM\nAbhijit Muhurtham: 11.49 AM to 12.38 PM\nSuryodayam: 6.03 AM\nSuryastamayam: 6.25 PM\nChandrodayam: 1.59 AM\nChandrashtamam: Vrushchikam\nTaddinam Tithi: Ekadashi\nPradesham: Hyderabad (Telugu Style)
@@ -2228,11 +2235,17 @@ SUMMARY:Karthikamu Shukla Paksham Trayodashi  (22.11.2026)
 UID:india-te-2026-11-22@panchangam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260216
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Maghamu Krishna Paksham Chaturdashi  (16.02.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Krishna Paksham\nTithi: upto 5.34 PM Chaturdashi\, thereafter Amavasya\nVaram: Somavaram\nNakshatram: upto 9.28 PM Shravana (2 Padam)\, and then Dhanishta\nYogam: Variyana\nKaranam: Shakuni\nRahu Kalam: 8.09 AM to 9.36 AM\nYamagandam: 11.03 AM to 12.30 PM\nDurmuhurtham: 12.53 PM to 1.39 PM\nAbhijit Muhurtham: 12.06 PM to 12.53 PM\nSuryodayam: 6.42 AM\nSuryastamayam: 6.18 PM\nChandrodayam: 5.51 AM\nChandrashtamam: Mithunam\nTaddinam Tithi: Chaturdashi\nPradesham: Hyderabad (Telugu Style)
-SUMMARY:Maghamu Krishna Paksham Chaturdashi  (16.02.2026)
-UID:india-te-2026-02-16@panchangam
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-P1D
+END:VALARM
+CATEGORIES:VRATAM
+DESCRIPTION:Astronomical duration of Pradosham (Shukla).
+DTEND:20270219T054448Z
+DTSTART:20270218T085812Z
+SUMMARY:⏳ Pradosham (Shukla)
+UID:india-te-202702181428-Pradosham(Shukla)@vratam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260326
@@ -2401,6 +2414,13 @@ SUMMARY:Pushyamu Shukla Paksham Padyami  (08.01.2027)
 UID:india-te-2027-01-08@panchangam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270218
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Maghamu Shukla Paksham Dwadashi  (18.02.2027)\n\n🎉 SPECIAL: Pradosham (Shukla)\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Shukla Paksham\nTithi: upto 2.28 PM Dwadashi\, thereafter Trayodashi\nVaram: Guruvaram\nNakshatram: upto 9.42 PM Punarvasu (2 Padam)\, and then Pushyami\nYogam: Aayushman\nKaranam: Balavai\nRahu Kalam: 1.57 PM to 3.24 PM\nYamagandam: 6.41 AM to 8.08 AM\nDurmuhurtham: 1.39 PM to 2.26 PM\nAbhijit Muhurtham: 12.06 PM to 12.53 PM\nSuryodayam: 6.41 AM\nSuryastamayam: 6.18 PM\nChandrodayam: 3.40 PM\nChandrashtamam: Vrushchikam\nTaddinam Tithi: Trayodashi\nPradesham: Hyderabad (Telugu Style)
+SUMMARY:Maghamu Shukla Paksham Dwadashi  (18.02.2027)
+UID:india-te-2027-02-18@panchangam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Sravanamu Krishna Paksham Trayodashi  (09.09.2026)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Varsha Ruthuvu\nMasam: Sravanamu\nPaksham: Krishna Paksham\nTithi: upto 12.31 PM Trayodashi\, thereafter Chaturdashi\nVaram: Budhavaram\nNakshatram: upto 3.52 PM Ashlesha (3 Padam)\, and then Makha\nYogam: Shiva\nKaranam: Vanijai\nRahu Kalam: 12.13 PM to 1.45 PM\nYamagandam: 7.35 AM to 9.08 AM\nDurmuhurtham: 10.09 AM to 10.59 AM\nAbhijit Muhurtham: 11.48 AM to 12.38 PM\nSuryodayam: 6.03 AM\nSuryastamayam: 6.23 PM\nChandrodayam: 4.06 AM\nChandrashtamam: Dhanu\nTaddinam Tithi: Chaturdashi\nPradesham: Hyderabad (Telugu Style)
@@ -2511,6 +2531,19 @@ SUMMARY:Jyeshthamu Krishna Paksham Amavasya 🌑 (15.06.2026)
 UID:india-te-2026-06-15@panchangam
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-P1D
+END:VALARM
+CATEGORIES:VRATAM
+DESCRIPTION:Astronomical duration of Ekadashi (Shukla).
+DTEND:20270217T120221Z
+DTSTART:20270216T144955Z
+SUMMARY:⏳ Ekadashi (Shukla)
+UID:india-te-202702162019-Ekadashi(Shukla)@vratam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260725
 CATEGORIES:PANCHANGAM
 DESCRIPTION:Ashadhamu Shukla Paksham Ekadashi  (25.07.2026)\n\n🎉 SPECIAL: Ekadashi (Shukla)\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Dakshinayanam\nRuthuvu: Grishma Ruthuvu\nMasam: Ashadhamu\nPaksham: Shukla Paksham\nTithi: upto 11.34 AM Ekadashi\, thereafter Dwadashi\nVaram: Shanivaram\nNakshatram: Jyeshta (1 Padam)\nYogam: Brahma\nKaranam: Vishti\nRahu Kalam: 9.07 AM to 10.45 AM\nYamagandam: 1.59 PM to 3.37 PM\nDurmuhurtham: 5.53 AM to 6.45 AM\nAbhijit Muhurtham: 11.56 AM to 12.48 PM\nSuryodayam: 5.53 AM\nSuryastamayam: 6.51 PM\nChandrodayam: 3.41 PM\nChandrashtamam: Mesham\nTaddinam Tithi: Dwadashi\nPradesham: Hyderabad (Telugu Style)
@@ -2571,6 +2604,13 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Pushyamu Shukla Paksham Thadiya  (11.01.2027)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Hemantha Ruthuvu\nMasam: Pushyamu\nPaksham: Shukla Paksham\nTithi: upto 9.28 AM Thadiya\, thereafter Chavithi\nVaram: Somavaram\nNakshatram: upto 6.38 PM Dhanishta (3 Padam)\, and then Shatabhisham\nYogam: Siddhi\nKaranam: Garajai\nRahu Kalam: 8.12 AM to 9.36 AM\nYamagandam: 11.00 AM to 12.23 PM\nDurmuhurtham: 12.46 PM to 1.30 PM\nAbhijit Muhurtham: 12.01 PM to 12.46 PM\nSuryodayam: 6.48 AM\nSuryastamayam: 5.58 PM\nChandrodayam: 9.05 AM\nChandrashtamam: Karkatakam\nTaddinam Tithi: Chavithi\nPradesham: Hyderabad (Telugu Style)
 SUMMARY:Pushyamu Shukla Paksham Thadiya  (11.01.2027)
 UID:india-te-2027-01-11@panchangam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270221
+CATEGORIES:PANCHANGAM
+DESCRIPTION:Maghamu Krishna Paksham Padyami  (21.02.2027)\n\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Maghamu\nPaksham: Krishna Paksham\nTithi: upto 2.03 AM Padyami\, thereafter Vidiya\nVaram: Bhanuvaram\nNakshatram: upto 2.28 PM Makha (3 Padam)\, and then Pubba\nYogam: Atiganda\nKaranam: Balavai\nRahu Kalam: 4.52 PM to 6.19 PM\nYamagandam: 12.29 PM to 1.57 PM\nDurmuhurtham: 4.46 PM to 5.33 PM\nAbhijit Muhurtham: 12.06 PM to 12.53 PM\nSuryodayam: 6.39 AM\nSuryastamayam: 6.19 PM\nChandrodayam: 6.51 PM\nChandrashtamam: Makaram\nTaddinam Tithi: Padyami\nPradesham: Hyderabad (Telugu Style)
+SUMMARY:Maghamu Krishna Paksham Padyami  (21.02.2027)
+UID:india-te-2027-02-21@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260802
@@ -2740,13 +2780,6 @@ DTEND:20260527T005215Z
 DTSTART:20260525T234124Z
 SUMMARY:⏳ Ekadashi (Shukla)
 UID:india-te-202605260511-Ekadashi(Shukla)@vratam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260218
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Phalgunamu Shukla Paksham Padyami  (18.02.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Phalgunamu\nPaksham: Shukla Paksham\nTithi: upto 4.58 PM Padyami\, thereafter Vidiya\nVaram: Budhavaram\nNakshatram: upto 9.55 PM Shatabhisham (2 Padam)\, and then Poorvabhadra\nYogam: Shiva\nKaranam: Bavai\nRahu Kalam: 12.30 PM to 1.57 PM\nYamagandam: 8.08 AM to 9.35 AM\nDurmuhurtham: 10.33 AM to 11.20 AM\nAbhijit Muhurtham: 12.06 PM to 12.53 PM\nSuryodayam: 6.41 AM\nSuryastamayam: 6.18 PM\nChandrodayam: 7.10 AM\nChandrashtamam: Karkatakam\nTaddinam Tithi: Padyami\nPradesham: Hyderabad (Telugu Style)
-SUMMARY:Phalgunamu Shukla Paksham Padyami  (18.02.2026)
-UID:india-te-2026-02-18@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
@@ -2946,13 +2979,6 @@ CATEGORIES:PANCHANGAM
 DESCRIPTION:Margashiramu Krishna Paksham Thadiya  (26.12.2026)\n\n🎉 SPECIAL: Sankatahara Chathurthi\nSamvatsaram: Parabhava Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Hemantha Ruthuvu\nMasam: Margashiramu\nPaksham: Krishna Paksham\nTithi: upto 8.05 PM Thadiya\, thereafter Chavithi\nVaram: Shanivaram\nNakshatram: upto 8.49 PM Pushyami (2 Padam)\, and then Ashlesha\nYogam: Vaidhriti\nKaranam: Vanijai\nRahu Kalam: 9.30 AM to 10.53 AM\nYamagandam: 1.39 PM to 3.02 PM\nDurmuhurtham: 6.43 AM to 7.28 AM\nAbhijit Muhurtham: 11.54 AM to 12.38 PM\nSuryodayam: 6.43 AM\nSuryastamayam: 5.49 PM\nChandrodayam: 8.28 PM\nChandrashtamam: Dhanu\nTaddinam Tithi: Thadiya\nPradesham: Hyderabad (Telugu Style)
 SUMMARY:Margashiramu Krishna Paksham Thadiya  (26.12.2026)
 UID:india-te-2026-12-26@panchangam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260221
-CATEGORIES:PANCHANGAM
-DESCRIPTION:Phalgunamu Shukla Paksham Chavithi  (21.02.2026)\n\nSamvatsaram: Vishvavasu Samvatsaram\nAyanam: Uttarayanam\nRuthuvu: Shishira Ruthuvu\nMasam: Phalgunamu\nPaksham: Shukla Paksham\nTithi: upto 1.01 PM Chavithi\, thereafter Panchami\nVaram: Shanivaram\nNakshatram: upto 7.44 PM Revathi (2 Padam)\, and then Aswini\nYogam: Shubha\nKaranam: Vishti\nRahu Kalam: 9.34 AM to 11.02 AM\nYamagandam: 1.57 PM to 3.24 PM\nDurmuhurtham: 6.39 AM to 7.26 AM\nAbhijit Muhurtham: 12.06 PM to 12.53 PM\nSuryodayam: 6.39 AM\nSuryastamayam: 6.19 PM\nChandrodayam: 9.03 AM\nChandrashtamam: Simham\nTaddinam Tithi: Panchami\nPradesham: Hyderabad (Telugu Style)
-SUMMARY:Phalgunamu Shukla Paksham Chavithi  (21.02.2026)
-UID:india-te-2026-02-21@panchangam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
